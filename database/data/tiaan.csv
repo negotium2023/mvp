@@ -1,0 +1,635 @@
+﻿Client_Surname;Client_Initials;Client_FullName;Client_NickName;Client_MaidenName;Client_Title;IDNO;Client_DOB;Client_BirthDay;Client_Gender;Marital_Type;Client_Email;Client_Cell;Client_HomeAddress1;Client_PostalAddress1;Client_Smoker;Client_TaxOffice;Client_TaxNumber;Client_Reference;Client_Anniversary;Family_Type
+Stavast;A;Adele;Adele;;Mrs ;8008210077082;1980/08/21;21;Female;;adele.stavast@bigenafrica.com;0623729841;;;;;;;;Principal
+Coetzee;A;Adele ;Adele;;Mrs ;7111130061086;1971/11/13;13;Female;;adelecoetzee2@gmail.com;083 2332558;;;;;;;;Spouse
+Branders;A;Adolf;Dolf;;Mr ;6102035077088;1961/02/03;3;Male;;dolf@deneckerdentistry.com;0828256052;;;;;;;;Spouse
+Kramer;AP;Adriaan Petrus;Adriaan;;Mr.;7206085055081;1972/06/08;8;Male;;riaan@pretoriusgroup.co.za ;083 462 5787;Middelburg;;Yes;0244135653;;Phillip;;Principal
+Hoft;A;Aldi;Aldi;;;8705220179085;;;Female;Married - ANC with accrual;aldi.hoft@cipla.co.za;0826120794;;;;;;;;Spouse
+Potgieter;AC;Aletha Catharina;Aletha;;Mrs.;7011010006088;1970/11/01;1;Female;Married;alet.potgieter@angloamerican.com;0734714598;Melbos straat 12;PO Box 1561;No;;;Phillip;;Principal
+Cooper;AP;Alexander Pieter;Pieter;;Mr ;6705025047083;1967/05/02;2;Male;;cooperpieter@gmail.com;0839568765;;;;;;;;Principal
+Nkosi;AS;Alfred Sandile;Alfred;;Mrs ;7306045832080;1973/06/04;4;Male;;sandile.nkosi@za.ab-inbev.com;;;;;;;SAB klient;;Principal
+Kruger;AH;Alida Hendriena;Alida;;Mrs ;8204160027082;1982/04/16;16;Female;;alida.kruger@exxaro.com;082 726 5224;;;;;;Exxaro;;Principal
+Nieuwoudt;A;Alison;Alison;;Mrs ;8210040009083;1982/10/04;4;Female;;;;;;;;;;;Principal
+Hoffman;A;Allcuise;Allcuise;;;;2000/09/30;30;Female;;;;;;;;;;;Child
+Schimper;A;Allison;Allison;;Miss.;;2008/10/22;22;;;;;;;;;;;;Child
+Prinsloo;A;Alna ;Alna;De Wet;Mrs.;9206300183088;1992/06/30;30;Female;Married - ANC with accrual;Alna_dewet@swissre.com;0823023043;19 Riesling villas;19 Riesling villas;No;;;;;Principal
+Singh;A;Alok;Alok;;;;2006/01/17;17;Male;;;;;;;;;;;Adult
+van Heerden;A;Amanda;Amanda;;Mrs ;6506020049086;1965/06/02;2;Female;;amandah@hollard.co.za;0832614616;;;;;;;;Principal
+Marais;AR;Andele Ronel;Andele;;Mrs ;6201170100083;1962/01/17;17;Female;;;0795199970;;;;0659060214;;;;Principal
+Le Roux;A;Andre;Andre;;;;1981/08/04;4;Male;;;;;;;;;;;Adult
+de Jager;AJ;Andre Johannes;Andre;;Mr ;9101125034089;1991/01/12;12;Male;;Andrejohannesdejager@gmail.com;0824655720;;;;;;Tiaan broer;;Principal
+Buissinne;A;Andrea;Andrea;;Mrs ;9105170033086;1991/05/17;17;Female;;andreatjies@gmail.com;0794947690;;;;;;;;Spouse
+De Jager;AC;Andrew Christiaan;Tiaan;;Mnr.;8804305103084;1988/04/30;30;Male;Single;tiaan@attooh.co.za;072-918-5106;;;;;;;;Principal
+De Jager;AJ;Andrew Johannes;Andrew;;Mr ;6110105094081;1961/10/10;10;Male;;;076 431 5754;24 Ferncresent ;;;;0123034654;Tiaan pa;;Principal
+Verwey;A;Andri;Andri;;Mrs ;8902190177088;1989/02/19;19;Female;;andriverwey@yahoo.com;0824947284;;;;;;;;Principal
+Olivier;A;Andries;Andre;;Mr ;6404045107081;1964/04/04;4;Male;;andre.olivier@bigenkumba.co.na;+264856290805;;;;;;;;Principal
+Swanepoel;AJ;Andries Jacobus;Andries;;Mr ;7711095008087;1977/11/09;9;Male;;aj.swan@hotmail.com;0719759037;;;;;;;;Principal
+Fourie;AJ;Andries Jonathan;Andries;;Mr ;5801255056083;1958/01/25;25;Male;;;0827675630;;;;;;;;Principal
+Shipman;A;Anel;Anel;;Mrs ;7610310013080;1976/10/31;31;Female;;anel.shipman@exxaro.com;0606057221;;;;;;;;Principal
+Botes;A;Anelise;Anelise;;Miss.;6904260030082;1969/04/26;26;Female;;pierrebotes@gmail.com;0723845862;;;;;;;;Principal
+Badenhorst;A;Angelique;Angelique;;Mrs ;9012190040085;1990/12/19;19;Female;;Angiebadie@gmail.com;060 527 9850;;;;0427936265;;;;Spouse
+Harrison;ACJ;Anna Cornelia Johanna;Ansie;;Mrs.;6206010042080;1962/06/01;1;Female;Married in COP;;0828544171;25 Vaal Eden;Po Box 61636;No;;;;;Spouse
+van Rooyen;AF;Anna Francina;Anna;;Mrs ;4105160036086;1941/05/16;16;Female;;pierriebotes@gmail.com;0828224503;;;;;;;;Principal
+Kotze;AG;Anna Gertruida ;Anida;;Mev.;6304110105087;1963/04/11;11;Female;Married - ANC with accrual;anida.kotze@gmail.com;0659490593;;;;;;;;Spouse
+van der Merwe ;AJS;Anna Johanna Susanna;Anna;;Mrs;6112130162081;1961/12/13;13;Female;;ansievdm@yahoo.co.za;0835646739;;;;;;;;Spouse
+Potgieter;AM;Anna Maria;Anna;;;;1992/07/02;2;Female;;;;;;;;;;;Child
+Slabbert;AM;Anna Maria;Annatjie;;Mrs ;4007190011081;1940/07/19;19;Female;;;;;;;;;;;Principal
+Swart;AM;Anna Maria;Anna;;Mrs.;7909270019081;1979/09/27;27;Female;;swartannemarie@yahoo.com;083 613 1532;;;No;;;;;Spouse
+Martinson;A;Annamarie ;Anami;;Mrs ;8412260040083;1984/12/26;26;Female;;martinsonanami@gmail.com ;0722847635;;;;;;;;Principal
+van Aarde;A;Annari;Annari;Odendaal;Mrs ;8512150122089;1985/12/15;15;Female;;annari.odendaal@gmail.com;083 454 9218;;;;;;;;Principal
+Erasmus;A;Anneleze ;Anneleze;Swanepoel;Mrs ;9001240202084;1990/01/24;24;Female;;annswanepoel@hotmail.com;083634065;;;;;;;;Spouse
+Meiring;A;Anneline;Anneline;;Mrs ;6805130164086;1968/05/13;13;Female;;annelinemeiring@gmail.com;0837139102;;;;;;;;Spouse
+van der Walt;A;Anrich ;Anrich;;Mr ;9307295050082;1993/07/29;29;Male;;anrichvanderwalt@yahoo.com;0832640795;;;;;;;;Principal
+Van der Berg;A;Ansa;Ansa;;Mrs.;5409050106085;1954/09/05;5;Female;;ansavdberg@gmail.com;076 782 0835;;;;;;;;Spouse
+de Jager;A;Ansia;Ansia;;Mrs ;7207170006088;1972/07/17;17;Female;;ansia.dejager@bigengroup.com;0834772566;;;;;;;;Principal
+Opperman;A;Anthony;Anthony;;Mr.;;2001/07/23;23;Male;;;;;;;;;;;Child
+Tullues;ALR;Anthony Le Roux;Anthony;;Mr.;5910095133083;1959/10/09;9;Male;;;083 417 7366;Knoppiesdoom Avenue 9;;;;;PHillip;;Principal
+Boshoff;A;Anton;Anton;;Mr ;6701195099087;1967/01/19;19;Male;;anton.boshoff777@gmail.com;0825549065;;;;;;;;Principal
+Myburgh;A;Anzell;Anzell;van der Merwe;Mrs ;7612090113080;1976/12/09;9;Female;;anzell.myburgh@doxadeo.org;0713343063;;;;;;;;Spouse
+Reynecke;AD;Armann Dawid;Armann;;Mr ;9305195271089;1993/05/19;19;Male;;armanndreynecke@gmail.com;082 8539750;;;;;;;;Principal
+Mgidi;A;Asanda;Asanda;;Miss.;8605080586082;1986/05/08;8;Female;;asanda.mgidi@bigenafrica.com;0726390484;;;;;;;;Principal
+Booysen;A;Ashley;Ashley;;Miss.;1409290423088;2014/09/29;29;Female;;;;;;;;;;;Child
+Maharaj;AA;Ashwan Ashok;Ashwan;;Mr ;6007185042081;1960/07/18;18;Male;;ashmaharaj@protonmail.com;0829205703;;;;;;;;Principal
+Lubbe;A;Athol;Athol;;Mr ;7708265096082;1977/08/26;26;Male;;athollubbe@gmail.com;0818706256;;;;;;Rene Disc klient;;Principal
+Gelderblom;A;Aubrey;Aubrey;;Mr ;7908075114089;1979/08/07;7;Male;;aubreygelderblom@gmail.com;;;;;;;Bigen lead;;Spouse
+Swanepoel;AAC;Augastha Anna Catherina;Augastha;;Mrs.;6706130122084;1967/06/13;13;Female;;gussieswanepoel@gmail.com;083 314 200;;;;;;Phillip;;Spouse
+Whelan;A;Avah;Avah;;Miss.;1508210472081;2015/08/21;21;Female;;;;;;;;;;;Child
+Makhakhe;BV;Baile Vincent;Baile;;Mr ;0811055177083;2008/11/05;5;Male;;;;;;;;;;;Child
+swart;B;Barbara;Barbara;;Mrs ;7111250266085;1971/11/25;25;Female;;barbara@ajs.co.za;0828548970;;;;;;;;Spouse
+Fraser;B;Barend;Barend;;Mr ;6804195144083;1968/04/19;19;Male;;batesfraser@absamail.co.za;0839627256;;;;;;;;Principal
+Landsdale;B;Barry;Barry;;Mr ;6304185010089;1963/04/18;18;Male;;Barry@dalrod.co.za;0828777578;;;;;;;;Spouse
+Kraai;BA;Bathabile Annacletta;Bathabile;;Mrs.;7109100488081;1971/09/10;10;Female;Married;bathabile.kraai@angloamerican.com;072 317 2114;11 Jordaan Street;Po Box 5350;No;;;Philip Roesch;;Principal
+Scheepers;B;Beanke;Beanke;;Mrs.;8506090022086;1985/06/09;9;Female;;beankescheepers@gmail.com;0726720169;;;;;;;;Principal
+Siebert;B;Beatrice ;Beatrice;;Mrs ;8212050036089;1982/12/05;5;Female;;beterblach@yahoo.com;0723339662;;;;;;;;Spouse
+Grobler;BA;Beatrice Anne;Beatrice;;Mrs ;6203210001081;1962/03/21;21;Female;;bea21gro@gmail.com;082 462 3847;;;;;;;;Principal
+van den Bergh;B;Benjamin ;Benjamin;;Mr ;5701145102081;1957/01/14;14;Male;;bennie@vdbconsulting.co.za;083 321 1564;;;;;;;;Principal
+van Der Merwe;B;Bertie;Bertie;van Der Merwe;Mr.;980731;1998/07/31;31;Male;Single;;;;;;;;;;Child
+Gibson;BA;Beverley Ann;Beverley;;Mrs ;GA1D5326;;;;;bill@KBItraining.com;083 640 3003;;;;;;;;Principal
+Ramrattan;B;Bradley;Bradley;;Mr ;8006145222088;1980/06/14;14;Male;;bradley.ramrattan@angloamerican.com;060 986 9383;;;;;;;;Principal
+Geyser;B;Brenda;Brenda;;Mrs ;6711220076083;1967/11/22;22;Female;;brendag@mweb.co.za;082 998 0334;;;;;0119277879;Phillip se disc life klient;;Principal
+Orwin;BS;Brett Shaun;Brett;;Mr ;6705295185084;1967/05/29;29;Male;;brett.orwin@me.com;0824580741;;;;;;;;Principal
+Harrison;BA;Brian Andrew;Brian;;Mr.;6204295096087;1962/04/29;29;Male;Married in COP;brian.harrison@sasol.com;0836305705;25 Vaal Eden;Po Box;No;;;;;Principal
+Botha;BP;Burger Pieter;Burger;;Mr ;7812225012088;;;Male;;burger@subtopico.co.za;083 230 6558;;;;;;Schalk life klient ;;Principal
+Berndt;CG;C Gebhardt;C;;Mr ;8202225082084;1982/02/22;22;Male;;sp@hccnorth.co.za;0763406008;;;;;;;;Principal
+Gernandt;C;Cadon;Cadon;;Mr ;9807315074087;1998/07/31;31;Male;;cadongernadt@gmail.com;0716724931;117 Anderson street;117 Anderson street;;;;;;Principal
+van Der Merwe;C;Calien;Calien;;Mrs.;6711120017088;1967/11/12;12;Female;Married - ANC with accrual;calien@ensass.co.za;0825668608;;;;;;;;Spouse
+Delport;C;Cara;Cara;;Miss.;1401060444089;2014/01/06;6;Female;;divan.delport@yahoo.co.uk;0731989566;;;;;;;;Child
+Estherhuysen;CH;Carel Hendrik;Carel;;Mr ;8003265094082;1980/03/26;26;Male;Married;carelesterhuysen@gmail.com;0824412020;;;;;;;;Child
+West;CR;Carel Rudolph;Rudi;;Mr ;7004065236080;1970/04/06;6;Male;;rudi.west@bigenafrica.com;0823240923;;;;;;;;Principal
+Cox;C;Carina;Carina;;Mrs ;7602030136085;1976/02/03;3;Female;;carien.cox@bigenafrica.com;0829247194;;;;;;;;Principal
+De Jesus;;Carlos Antonio Soares ;;;Mr;7005185315084;1970/05/18;18;Male;;carlos@aeq.co.za;0824638603;;;;;;;;Principal
+Nel;CE;Catharina Elizabeth;Catharina;;Mrs.;6506180051088;1965/06/18;18;Female;;rinanel1806@hotmail.com;082 365 61311;;;;;;Phillip;;Spouse
+Erasmus;CP;Catherina Petronella;Catherina;;Mrs ;6211220022088;1962/11/22;22;Female;;erasmus3@telkomsa.net;0827806139;;;;;;;;Principal
+Spence;CN;Chad Nicholas;Chad;;Mr ;8712185035088;1987/12/18;18;Male;;chadspence@gmail.com;082 688 7772;;;;;;;;Principal
+Poggenpoel;C;Chane;Chane;;Miss.;9602050123086;1996/02/05;5;Female;;poggenpoelchane@gmail.com;0848091059;;;;;;;;Principal
+Van der Schyff;C;Chantel;Chantel;Roux;Mrs.;8410250169086;1984/10/25;25;Female;;chantelroux@yahoo.com;084 861 4317;;;;;;;;Spouse
+Venter;C;Chantel;Chantel;;Miss.;8310250020083;1983/10/25;25;Female;;chantel.duplooy@gmail.com;076 759 3722;;;;;;;;Principal
+Cronje;CD;Chantelle D;Chantelle;;Mrs ;8006180133083;1980/06/18;18;Female;;chantelle.nothnagel@gmail.com;0833679951;;;;;;;;Principal
+Naude;CF;Chantelle Francis;Chantelle;;Miss.;8506110010087;1985/06/11;11;Female;;chantellefn@gmail.com;0762842846;7 Mont Serrat ;37 Lindlay Avenue;;;;;;Principal
+Lee;CJ;Charel Johannes;Charel;;Mr ;5904275030086;1959/04/27;27;Male;;leekallie27@gmail.com;083 306 6344;Faure;PO Box 280;;;;;;Spouse
+van Vuuren;C;Charlene;Charlene;;Mrs ;8205090036085;1982/05/09;9;Female;;charlene.vanvuuren0905@gmail.com;0765284348;;;;;;;;Spouse
+Phasha;C;Charlotte;Charlotte;;Miss.;9304160280084;1993/04/16;16;Female;;phashac@yahoo.com;;;;;;;Bigen klient;;Principal
+Beukes;C;Charmaine;Charmaine;;Mrs ;6502080116089;1965/02/08;8;Female;;chrisbeukes@absamail.co.za;071 547 8847;;;;;;;;Principal
+Ferreira;C;Charmaine;Charmaine;;Mrs ;8510240018085;1985/10/24;24;Female;;charmainefer@gmail.com;0722140429;;;;;;;;Principal
+Poggenpoel;C;Charmaine;Charmaine;;Mrs ;7108220225084;1971/08/22;22;Female;;charmainepoggenpoel@gmail.com;08331205764;;;;;;;;Spouse
+van Heerden;C;Charmaine;Charmaine;;Mrs ;58030373086;;;;;charmainevanheerden@hotmail.com;0824987398;;;;;;Francois le CLus life klient;;Principal
+Kramer;C;Charne;Charne;;Miss.;;2000/09/12;12;Female;;;;;;;;;;;Child
+Vermaak;C;Chirene ;Chirene;;Mrs ;7403160258082;1974/03/16;16;Female;;chireneduplessis@yahoo.com ;0828389047;;;;;;;;Spouse
+de Jager;C;Chris;Chris;;Mr ;6402245147089;1964/02/24;24;Male;;chrisdejager01@gmail.com;082 491 4803;;;;;;;;Principal
+Whelan;C;Christelle;Christelle;;Mrs ;8905180132088;1989/05/18;18;Female;;pgrelentlessconsulting.co.za;0714817028;;;;;;;;Spouse
+Botes;CJ;Christiaan Jacobus;Christiaan;;Mr ;8511145100085;1985/11/14;14;Male;;christiaanbotes@gmail.com;0798787825;;;;;;;;Spouse
+Van der Schyff;C;Christoffel;Christoffel;;Mr.;8406115160088;1984/06/11;11;Male;;christoffvds@yahoo.com.au;072 647 7127;18 Doornhoek Complex 5007;;;;;;;Principal
+Sebatane;CL;Clifton Lehlohonolo;Clifton;;Mr ;7807205973085;1978/07/20;20;Male;;clifton.sebatne@gmail.com;0825682023;;;;;;;;Principal
+van Beek;CJS;Coenraad Josephus Strydom;Coenraad;;Mr ;6909215001088;1969/09/21;21;Male;;coenraadvanbeek@gmail.com;6909215001088;;;;;;;;Principal
+Workel;C;Coleen;Coleen;;Mrs.;;;;;;melissa.workel@iface.co.za;;;;;;;;;Spouse
+Swart;C;Constand;Constand;;Mr.;7102015123083;1971/02/01;1;Male;;constand.swart@angloamerican.com;071 855 0177;Knoppiesdoring 12;;No;;;Phillip;;Principal
+Minnaar;C;Corinna;Corinna;;Mrs ;7705061171184;1977/05/06;6;;;rinnam77@gmail.com;081 336 1687;;;;;;;;Spouse
+Vermaak;CT;Cornelius Tobias ;Tobie;;Mr ;6604045105080;1966/04/04;4;Male;;tobie.verm@gmail.com;0824423078;;;;;;;;Principal
+Pretorius;CJW;Coroline Johanna Wilhamina;Coroline;;Mrs ;6307120018083;1963/07/12;12;Female;;pretoriuslina@gmail.com;0788709424;;;;;;;;Spouse
+Botha;C;Craig;Craig;;Mr ;7812025077083;1978/12/02;2;Male;;cbotha@taupele.co.za;0838008365;;;;;;;;Principal
+van der Westhuizen;C;Cynthia;Cynthia;;Mrs ;6301290141080;1963/01/29;29;Female;;;0781223227;;;;;;;;Principal
+Prinsloo;D;Danae;Danae;;Mrs ;;;;;;Danaeprnsloo@gmail.com;079 890 8572;;;;;;;;Principal
+Le Roux;D;Danelle;Danelle;;Miss.;9312090100082;1993/12/09;9;Female;;danzi.leroux@gmail.com;072 946 5236;;;;;0546714155;;;Principal
+Meiring;D;Danene ;Danene;Hoft;Mrs.;9302010043082;1993/02/01;1;Female;;danenehoft@gmail.com;071 852 1239;;;;;;;;Spouse
+Grabe;D;Danie;Danie;;Mr ;;;;;;danie.grabe@bigenafrica.com;082 7727160;;;;;;;;Principal
+Le Roux;DF;Daniel Francois;Daniel;;Mr ;6612155082080;1966/12/15;15;Male;;Francois.LeRoux@wisium.com>;0824442647;386 Snowy Wlaker street;PO BOX 212;;;0399032671;;;Principal
+le Roux;DF;Daniel Francois;Daniel;;Mr ;9609055076086;1996/09/05;5;Male;;dfranlroux@gmail.com;074 713 8646;;;;;0030727168;;;Principal
+Kruger;DJ;Daniel Johannes;Daniel;;Mr.;8805195012087;1988/05/19;19;Male;Single;danieljkruger@gmail.com;072 611 3693;17 Chaumont;Postnet Suite;No;;;;;Principal
+Hoft;DD;Darren Dean;Darren;;Mr.;8901305111081;1989/01/30;30;Male;Married - ANC with accrual;darren.hoft@angloamerican.com;083 266 4998;;;;;;;;Principal
+Phillips;DF;Darren Furze;Darren;;Mr;8112175154082;1981/12/17;17;Male;;darren@cindynel.co.za;0723691169;;;;;;;;Principal
+Fourie;DR;Daryll Rudy;Daryll;;Mr.;8603065075080;1986/03/06;6;Male;;fouriedr@gmail.com;084 718 6914;;;;;;;;Principal
+Potgieter;DJ;David Jacobus;David;;Mr.;6702055148089;1967/02/05;5;Male;;davidpotgieter67@gmail.com;083 462 5788;8th Avenue ;PO Box 1356;No;;;Phillip;;Principal
+Bagshaw;DM;David Martin ;David;;Mr;8512255100089;1985/12/25;25;Male;;david@sqeezy.co.za;0833839181;;;;;;;;Principal
+Botha;DE;Dawid Eduard;Dawid;;Mr ;0710045316084;2007/10/04;4;Male;;hannelie.botha999@gmail.com;0849004268;;;;;;;;Child
+Bakker;D;Debbie;Debbie;;Mrs ;7108160174086;1971/08/16;16;Female;;debbieb@lexusfourways.co.za;0829279364;;;;;;(Rene life klient);;Principal
+Misselhorn;D;Denis;Denis;;Mr ;4808125021081;1948/08/12;12;;;denvaly@vodamial.co.za;079 635 5477;;;;;;;;Principal
+Geater;D;Denise;Denise;;Mrs ;5910070090084;1959/10/07;7;Female;;deniseinthesun@hotmail.com;+044 733 442300;;;;;;Stian life klient ;;Principal
+Gericke;D;Desire;Desire;;Miss.;;2003/05/26;26;Female;;;;;;;;;;;Child
+Naicker;D;Dhanasagree;Dhanasagree;;Mrs ;6906070115086;1969/06/07;7;Female;;jane.naicker@bigenafrica.com;083 276 1428;;;;;;;;Principal
+Fryer;DV;Diane Veronica;Diane;;Mrs ;5105050177080;1951/05/05;5;Female;;diannefryer5@gmail.com;0824105764;;;;;;Madeleen lead;;Spouse
+Benninghoff;D;Dieter;Dieter;;Mr ;5605125088089;1956/05/12;12;Male;;dbenninghoff56@gmail.coom;0617248310;;;;;;;;Principal
+Storbeck;D;Dieter;Dieter;;Mr ;7212035045081;1972/12/03;3;Male;;dieter.storbeck@bigenafrica.com;0825676658;;;;;;;;Principal
+Nel;D;Dina;Dina;;Mrs ;6302040010088;1963/02/04;4;Female;;hendinanel@gmail.com;0824129653;;;;;;;;Principal
+Kotze;DJ;Dirk Jacobus;Dirk;;Mr.;6109215130082;1961/09/21;21;Male;Married;anida.kotze@gmail.com;071 854 8033;;8 Third Avenue;;;;Phillip;;Principal
+Van der Walt;D;Divan;Divan;;Mr.;9209075061083;1992/09/07;7;Male;;divanvdwalt@gmail.com;084 548 0850;222 Anstasia street;;;;;;;Principal
+Delport;D;Divan ;Divan;;Mr ;8209015055089;1982/09/01;1;Male;;divan.delport@yahoo.co.uk;0731989566;;;;;;;;Principal
+Schultz;DD;Domonique Dean;Domonique;;Miss.;9007030116087;1990/07/03;3;Female;;domoniques@sapcor.co.za;0636986858;;;;;;;;Principal
+Fouche;DZ;Donovan Zirck;Donovan;;Mr.;8803105092083;1988/03/10;10;Male;Single;donovan2011@live.co.za;078 493 5082;201 Swellendam Laan;Po Box 10226;No;;;;;Principal
+De Villiers;D;Dorothea;Dorothea;;;;2012/03/26;26;Female;;;;;;;;;;;Child
+Cowley;DPBP;Douglas Peter Buaguy Parkin;Douglas;;Mr ;8302075830184;1983/02/07;7;Male;;Douglas.cowley@britehouse.co.za;0722436281;;;;;;;;Principal
+Ferreira;DG;Douw Gerbrand;Douw;;Mr ;7401235102087;1974/01/23;23;Male;;droogte@lantic.net/douw.ferreira@angloamerican.com;083 703 2336;;;;;;;;Principal
+Potgieter;DJ;Duncan James;Duncan;;;;1998/06/18;18;Male;;;;;;;;;;;Child
+Britz;E;Eben;Eben;;Mr ;8102025006087;1981/02/02;2;Male;;ebenb@spsi.co.za;0827716135;;;;;;;;Principal
+Fouche;E;Edward;Eddie;;Mr ;8303185009081;1983/03/18;18;Male;;e.fouche@za.ma.gruppocln.com;0729971414;;;;;;;;Principal
+Swanepoel;E;Edward;Edward;;;;1993/06/21;21;Male;;;;;;;;;;;Adult
+Estherhuysen;EG;Edward Graham;Edward;;Mr ;5004185055081;1950/04/18;18;Male;;graham.esterhuysen@gmail.com;082 824 9496;;;;;;Madeleen lead ;;Principal
+Horn;E;Elizabeth;Elizabeth;;Mrs ;6103040060085;1961/03/04;4;Female;;horngideon@gmail.com;;;;;;;;;Principal
+Kock;E;Elizabeth;Elizabeth;;Mrs.;7308050112085;1973/08/05;5;Male;Married in COP;elizabethkock55@gmail.com;0843665449;;;;;3156488441;;;Spouse
+Cooper;EA;Elizabeth Anna;Elizabeth;;Mr ;7002260049084;1970/02/26;26;Female;;annelizecooper0918@gmail.com;0723400744;;;;;;;;Spouse
+Cooper;EA;Elizabeth Anna;Elizabeth;;Mr ;7002260049084;1970/02/26;26;Female;;annelizecooper0918@gmail.com;0723400744;;;;;;;;Principal
+Avenant;EC;Elizabeth Cecilia;Elizabeth;;Mrs.;5902260091089;1959/02/26;26;Female;;;083 564 6245;;;;;;;;Spouse
+Deysel;EJ;Elizabeth Jeanette;Elizabeth;;Mrs.;6907290250083;1969/07/29;29;;;abuys.dr@gmail.com;083 486 2896;;;;;0280190158;;;Principal
+Storbeck;EL;Elizabeth Lynn;Elizabeth;;Mrs ;7304170276082;1973/04/17;17;Female;;estorbeck@sars.gov.za;0823017007;;;;;;;;Spouse
+Van Der Walt;EM;Elizabeth Margarita;Elizabeth;;Mev.;5208270029089;1952/08/27;27;Female;Married;vdwmargie1@gmail.com;082 572 0847;;;;;;;;Principal
+Swart;E;Ellen;Ellen;;;;2002/12/18;18;Female;;;;;;;;;;;Child
+van Eck;E;Elmari;Elmari;;Mrs ;6104220127082;1961/04/22;22;Female;;;;;;;;;;;Principal
+de Jager;E;Elmi;Elmi;;Mrs ;6704200098086;1967/04/20;20;Female;;elmi.dejager@exxaro.com;078 098 9957;;;;;;;;Spouse
+Scrooby;E;Eloize ;Eloize;;;;;;Female;;;;;;;;;;;Child
+Price;ESC;Elsie Susanna Cecilia;Elsie;;Mrs ;5207200048086;1952/07/20;20;Female;;bill.price@me.com;;;;;;;;;Spouse
+Lindhorst;EE;Emerelda Elizabeth ;Emerelda;;Mrs ;6304260173083;1963/04/26;26;Female;;;0833930685;;;;;;;;Spouse
+De Villiers;EE;Emil Etienne;Emil;;Mr.;7205025076082;1972/05/02;2;Male;;ysterberg@gmail.com;083 417 7311;Hoew 72 ;PO Box 62;No;2388713147;;Phillip ;;Principal
+de Villiers;EE;Emil Etienne ;Emil (jnr);;Mr ;1611105761087;2016/11/10;10;Male;;;;;;;;;;;Principal
+Estherhuysen;E;Emily;Emily;;Miss.;1812130713081;2018/12/13;13;Female;;carelesterhuysen@gmail.com;0824412020;;;;;;;;Child
+Booysen;EJ;Erasmus Johannes;Erasmus;;Mr ;8008265031083;1980/08/26;26;Male;;watkykjy1@gmail.com;0834525006;33 Berghaan avenue;;;;;;;Principal
+Maritz;E;Erhardt;Erhardt;;;;1986/07/19;19;Male;;;;;;;;;;;Child
+Brummer;E;Ernestia;Ernestia;;Mrs ;8904100013080;1989/04/10;10;Female;;ernestia@genric.co.za;0727307367;;;;;;;;Principal
+Liddle;EE;Esias Engelbertus;Esias;;Mr ;8112055008085;1981/12/05;5;Male;;liddlesias@gmail.com;0798834072;;;;;;;;Principal
+Luus;E;Esme;Esme;;Mrs ;;;;;;;;;;;;;;;Principal
+Koorts;E;Este;Este;;Mrs ;5902090019086;1959/02/09;9;Female;;este@gcis.gov.za;082 570 0231;;;;;;;;Spouse
+Venter Ferreira;E;Esther;Esther;;Mrs ;7501040013088;1975/01/04;4;Female;;esther.venter.ev@gmail.com;0836750970;;;;;;Rayno se life klient ;;Principal
+Trollope;EW;Etienne Watts;Etienne;;Mr.;8301075022081;1983/01/07;7;Male;;etienne.trollope@doxadeo.co.za;0834266969;92 Windmill 3 Augrabies;PO Box 101685;;;;;;Principal
+Pretorius;E;Eugene;Eugene;;Mr ;6009195002089;1960/09/19;19;Male;;eugene.pretorius802@gmail.com;0836523449;;;;;;;;Principal
+van Vuuren;EL;Eugene Lodewikus;Eugene;;Mr.;8209195007082;1982/09/19;19;Male;;eugene.vanvuuren0919@gmail.com;0729985007;;;;;0309603165;;;Principal
+Berg;EO;Eugene Olof ;Hykie ;;Mr ;7805025129086;1978/05/02;2;Male;;hykie@attooh.co.za;0827897898;;;;;;;;Spouse
+Clack;E;Eugenie;Eugenie;;Mrs ;9001230023086;1990/01/23;23;Female;;eugenieclack@gmail.com;0825730301;434 Vera  Street;;;3349986152;;;;Principal
+Joubert;E;Eunice ;Eunice;;Mrs ;9003050054084;1990/03/05;5;Female;;eunicejbn@gmail.com;079 696 9228;;;;;;;;Principal
+Collins;FK;Fatima Khatoun;Fatima;;Mrs ;7503150052088;1975/03/15;15;Female;;fatima.collins@gmail.com;0784583668;;;;;;;;Principal
+Murphy;FC;Frances Claire;Frances;;Miss.;8910160692085;1989/10/16;16;Female;;frances@fabbusiness.co.za;060 773 3905;;;;;;;;Principal
+Hoffman;FC;Franco Christiaan;Franco;;;;2001/01/31;31;Male;;;;;;;;;;;Adult
+Daniels;F;Frank;Frank;;;5810035132080;1958/10/03;3;Male;;frankd@telkomsa.net;0828574526;;;;;;;;Principal
+Venter;F;Frans;Frans;;Mr.;6812235054089;1968/12/23;23;Male;;sweisventer@gmail.com;082 921 4867;Eerste Laan 22;PO BOX 1707;;;0449027655;Phillip;;Principal
+Schimper;FJVM;Frans Johannes van Maltitz;Frans;;Mr ;7608145052083;1976/08/14;14;Male;;fransschimper@gmail.com;082 455 9478;19 Malibu Gardens;PO Box 12192;;;;;;Principal
+Landsdale;F;Freda;Freda;;Mrs ;6811040192084;1968/11/04;4;Female;;freda@safewaytyres.co.za;0824684579;;;;;;;;Principal
+Potgieter;FJ;Frederick James ;Frederick;;;;2000/05/31;31;Male;;;;;;;;;;;Child
+van den Berg;FJDN;Frederick Josephus De Necker ;Frederick;;Mr ;8508295087088;1985/08/29;29;Male;;Frikkievdb@gmail.com;0845038100;;;;;;;;Principal
+Koen;FJ;Frederik Johannes;Frederik;;Mr ;8909255075081;1989/09/25;25;Male;;rca.koen@gmail.com;061 456 2642;Pepeprboom ave 11;PO Box 4193;;;;;;Principal
+Koen;FJ;Frederik Johannes;Frederik;;Mr ;6410305003084;1964/10/30;30;Male;;derick.koen@angloamerican.com;082 576 5091;;;;;;;;Principal
+Botha;GE;Gail Eleanor;Gail;;Mrs ;6503280160083;1965/03/28;28;Female;;gailbotha127@gmail.com;0844685787;;;;;;;;Principal
+Livanos;GJ;Gail Joan;Gail;;Mrs ;5209210102085;1952/09/21;21;Female;;gailylivanos@gmail.com;0822971756;;;;;;;;Principal
+Van der Berg;GH;Gerhard Hendrik;Gerhard;;Mr.;5306275069082;1953/06/27;27;Male;;vanderberggerrie@gmail.com;076 831 8524;;;No;;;Phillip;;Principal
+Grebe;GPM;Gerhard Philip Maree;Gerhard;;Mr ;8706265036081;1987/06/26;26;Male;;grebegpm@unisa.ac.za;0721266045;10 La Bella Costa Body Corporate;;;;;;;Principal
+De Villiers;G;Gerhardus;Gerhardus;;;;2014/06/15;15;Male;;;;;;;;;;;Child
+Koorts;GJ;Gerhardus Jeremiah;Gerhardus;;Mr ;5907155126080;1959/07/15;15;Male;;gekoo@telkomsa.net;083 309 0976;;;;;1065251645;;;Principal
+Oosthuizen;G;Gerjo;Gerjo;;Mr ;8907145098081;1989/07/14;14;Male;;gerjo.oosthuizen@attooh.co.za;07238000732;;;;;;;;Principal
+Janse van Rensburg;G;Gerrit;Gerrit;;Mr ;8701215408084;1987/01/21;21;Male;;gerritvanrens@gmail.com;0835576404;;;;;;;;Principal
+van Rooyen;G;Gert;Gert;;Mr ;4009305059088;1940/09/30;30;Male;;pierrebotes@gmail.com;;;;;;;;;Principal
+Martinson;GA;Gert Abraham;Gert;;Mr ;8908165080082;1989/08/16;16;Male;;martinsongert@gmail.com;0827542390;;;;;;;;Spouse
+Cilliers;GD;Gert Daniel;Neil;;Mr ;9006115050088;1990/06/11;11;Male;;ncilliers4@gmail.com;079 130 7804;;;;;0823284237;;;Principal
+Van Niekerk;GJ;Gert Jacobus ;Gert;;Mr ;6110205130082;1961/10/20;20;Male;;gert.vanniekerk.gvn@gmail.com;083 703 2323;;;;;1089015216;;;Principal
+Horn;G;Gideon;Gideon;;Mr ;5812205071080;1958/12/20;20;Male;;horngideon@gmail.com;083282739;;;;;;;;Spouse
+Helberg;GJA;Gideon Johannes Adam;Deon;;Mr.;6312085037086;1963/12/08;8;Male;;dhelberg@gmail.com;082 303 9059;Marekele Estates no27;1882 ;No;;;Phillip;;Principal
+Horn;G;Gido ;Gido;;Mr ;8801155133088;1988/01/15;15;Male;;Gidohorn1@gmail.com;0768112441;;;;;;(Jnr);;Principal
+Kock;G;Giniel;Giniel;;;;;;Male;;;;;;;;;;;Child
+Pelser;G;GJT;GJT;;Mr.;9008055190080;1990/08/05;5;Male;;pelsergerrit@gmail.com;082 928 7857;;;;;;;;Principal
+Maluleke;GV;Goldsworthy Victor;Goldsworthy;;Mr ;8912175726080;1989/12/17;17;Male;;vic.malux@gmail.com;076 061 0990;;;;;;;;Principal
+Muller;G;Greta;Greta;;Mej.;8603250077081;1986/03/25;25;Female;;gretaserfontein@gmail.com;0826406912;;;;;;;;Principal
+Matthews;G;Gretchen;Gretchen;;Mrs ;8703230180086;1987/03/23;23;Female;;gretchen.esbach@gmail.com;083 201 1728;;;;;;;;Spouse
+Shongwe;G;Gugulethu;Gugulethu;;Mrs ;8703250471084;1987/03/25;25;Female;;shonggugs@gmail.com;076 745 6691;;;;;;;;Principal
+Maritz;G;Gustaf;Gustaf;;;;1983/10/25;25;Male;;;;;;;;;;;Child
+Barros de Carvalho;G;Gustavo;Gustavo;;Mr ;840214519186;1984/02/14;14;;;gustavobcarvalho@yahoo.com;0794257848;Unit 219;BLOCK C;;;;;;Principal
+Buissinne;HB;Handre Bernardus;Handre;;Mr ;9101155263087;1991/01/15;15;Male;;hbuissinne@gmail.com;08330025226;;;;;;;;Principal
+Bekker;H;Hanneke;Hanneke;;;;1997/09/19;19;Female;;;;;;;;;;;Child
+De Wet;H;Hanneke;Hanneke;;Miss.;9004170200086;1990/04/17;17;Female;;hannekedwt2@gmail.com;083 447 5982;;;;;;;;Principal
+Botha;H;Hannelie;Hannelie;;Mrs ;6903130028086;1969/03/13;13;Female;;hannelie.botha999@gmail.com;0849004268;;;;;;;;Principal
+van der Merwe;HA;Hayley Ann;Hayley;;Mrs ;7905250039081;1979/05/25;25;Female;;hayley.vandermerwe@bigengrop.com;0826557162;;;;;;;;Spouse
+Mahlangu;HN;Hazel Nonjabulo;Hazel;;Mrs ;9012300210081;1990/12/30;30;Female;;hazel.mahlangu@exxaro.com;079 603 3903;;;;;;Exxaro;;Principal
+Wilbers;H;Heidi ;Heidi;;Mrs ;7410060051087;1974/10/06;6;Female;;Heidi.Wilbers@gmail.com;0832872079;;;;;;;;Principal
+Muller;H;Heiner;Heiner;;Mr ;8305045154080;;;Male;;heiner@nurizon.co.za;079 504 8074;;;;;;;;Principal
+Erasmus;H;Heinrich;Heinrich;;Mr ;9402145034087;1994/02/14;14;Male;;heini.erasmus.10@gmail.com;0828492460;;;;;;;;Principal
+Terblanche ;HT;Heinrich Theunissen;Heinrich;;Mr ;6301075126082;1963/01/07;7;Male;;terblaht@telkomsa.net;083 659 7989;;;;;2585072206;;;Principal
+Kelber;H;Heleen;Heleen;;Mrs ;7206090051083;1972/06/09;9;Female;;heleenk@ccsa.org.za;082 966 3094;;;;;;;;Spouse
+Pansegrouw;H;Helen;Helen;;Mrs ;7101170252083;1971/01/17;17;Female;;helenpansegrouw61@gmail.com;0836334531;;;;;;;;Spouse
+Le Roux;HA;Hendrik Albertus;Hendrik;;;;1997/02/08;8;Male;;;;;;;;;;;Child
+Rossouw;HC;Hendrik Cornelius;Hendrik;;Mr ;6904095062086;1969/04/09;9;Male;;rikus.rossouw@bigengroup.com;0834090200;;;;;;;;Principal
+Branders;HJ;Hendrik Jacobus;Henry;;Mr ;9509035024083;1995/09/03;3;Male;;henrybranders@gmail.com;0825572124;;;;;;;;Principal
+van Wyk;HLJ;Hendrik Lambert Johannes;Hendrik;;Mr ;5907255143084;1959/07/25;25;Male;;hljvanwyk@gmail.com;0834631959;;;;;;Paul van Zyl;;Principal
+Boshoff;HP;Hendrik Petrus;Hendrik;;Mr.;6807205059084;1968/07/20;20;Male;;1968hpboshoff@gmail.com;072 473 1908;5 de laan 8 ;;Yes;;;Phillip;;Principal
+Botha;HP;Hendrik Petrus;Hendrik;;Mr ;6610085006088;1966/10/08;8;Male;;henk@syntell.co.za;0824997735;;;;;;;;Spouse
+Fourie;HR;Hendrik Rikus;Hendrik;;Mr ;9212025058084;1992/12/02;2;Male;Married;hendrikfourie28@gmail.com;082 311 1343;;;;;;;;Spouse
+van Niekerk;HW;Hendrika Welna ;Hendrika;;Ms;7010250178086;1970/10/25;25;Female;;moscowrix@gmail.com;0631907435;;;;;;;;Spouse
+Sephton;HM;Hendrina Magrietha;Hendrina;;Mrs ;5602060045083;1956/02/06;6;Female;;ritasephton@gmail.com;083 468 3496;;;;;1752219640;;;Principal
+Branders;H;Henet;Henet;;Miss.;8605110002084;1986/05/11;11;Female;;hbranders@yahoo.com;0723866592;;;;;;;;Principal
+Coetzee;H;Hennie ;Hennie;;Mr ;6810105150086;1968/10/10;10;Male;;hpc1consulting@gmail.com;0833040533;433 Kommetjie Crescent;;;;;(Herman Visser life klient);;Principal
+Meiring;H;Henri;Henri;;Mr ;9102145043084;1991/02/14;14;Male;;meiring.henri@gmail.com;073 453 7386;;;;;;;;Principal
+Siebert;H;Henri;Henri;;Mr ;7809015068080;1978/09/01;1;Male;;henri.siebert@bigengroup.com;0832727757;;;;;;;;Principal
+Smith;HJ;Henry James;Henry;;Mr ;6912105039085;1969/12/10;10;Male;;henry.tsa@gmail.com;0825514201;;;;;;;;Principal
+Lindhorst;HEF;Herbert Ernst Franz;Herbie;;Mr ;6103025015088;1961/03/02;2;Male;;;;;;;;;;;Principal
+Scheepers;H;Herman;Herman;;;;;;;;;;;;;;;;;Child
+Grobler;H;Hermanus;Manie;;Mr ;6304025037086;1963/04/02;2;Male;;bea21gro@gmail.com;0824965726;;;;;;;;Spouse
+Loots;H;Hermanus;Manie;;Mnr.;9103165176085;1991/03/16;16;Male;Married - ANC with accrual;hermanus.loots@gmail.com;079 522 0451;8 Butia Estate;8 Butia Estate;No;;;;2015/04/21;Principal
+Scheepers;HP;Hermanus Petrus;Hermanus;;Mr.;7712275031089;1977/12/27;27;Male;;herscheepers@gmail.com;076 675 9257;6de laan no 18;16212;Yes;;;;;Principal
+Naude;HA;Hester Adriana;Hester;;Mrs ;4903200051085;1949/03/20;20;Female;;estinaude@gmail.cm;0824820408;;;;;;;;Principal
+van Deventer;HC;Hester Catharina ;Carien;;Mrs ;7306180030086;1973/06/18;18;Female;;cvd@polka.co.za;0836586187;;;;;;;;Spouse
+Schwim;HM;Hester Magdalena;Hester;;Mrs ;2506270061082;1925/06/27;27;Female;;martiebranders@gmail.com;0836259975;;;;;;;;Principal
+van Niekerk;HH;Hugo Hendrik;Hugo;;Mr ;7103145232083;1971/03/14;14;Male;;hugo@kingdomglobal.org;0836506319;;;;;;;;Principal
+Mouton;HJ;Hugo Johan;Hugo;;Mr.;5605105079082;1956/05/10;10;Male;;hugo.mouton@gmail.com;0824577864;;;;;;;;Principal
+van Rooyen;I;Iganatius;Naas;;Mr ;8901205112080;1989/01/20;20;Male;;naas_vanrooyen@yahoo.com;+14698037248;;;;;;;;Principal
+De Wet;I;Ignatius;Ignatius;;Mr ;7911095098084;1979/11/09;9;Male;;jacodewet@gmail.com;0632024745;;;;;;Schalk verwysing;;Principal
+Schutte;IL;Ile Louisa;Ile;;Ms;8607040045084;1986/07/04;4;Female;Single;ileschutte@gmail.com;083 236 7371;39 Beverly Hills Estate;Po Box 36021;;;;;2015/04/21;Principal
+Delport;I;Ilke;Ilke;;Miss.;1807100959086;2018/07/10;10;Female;;divan.delport@yahoo.co.uk;0731989566;;;;;;;;Child
+Steyn;I;Inette;Inette;;Mrs ;;;;;;inette@willemsteyn.co.za;;Merciapark 18;;;;;;;Principal
+Louw;IE;Isabel Eliz;Isabel;;Mrs ;4101260024080;1941/01/26;26;Female;;isabellouw7@gmail.com;0836585420;;;;;;;;Principal
+Estherhuysen;I;Isabella;Isabella;;Ms;1701130337084;2017/01/13;13;Female;;carelesterhuysen@gmail.com;0824412020;;;;;;;;Child
+Helberg;I;Isabella;Isabella;;;;;;;;;;;;;;;;;Adult
+Whelan;I;Isabella;Isabella;;Miss.;2101200483083;2021/01/20;20;Female;;pg@relentlessconsulting.co.za;0728228176;;;;;;;;Principal
+Gericke;IM;Isabella Magdalena;Isabella;;;;1981/01/20;20;Female;Married;;;;;;;;;;Spouse
+Schimper;IMS;Isabella Maria Susanna;Isabella;;Mrs ;7907130014086;1979/07/13;13;Female;;isabellaschimper@gmail.com;083 367 9477;;;;;;;;Spouse
+Helberg;IP;Isabella Petronella;Isabella;;Mev.;;;;Female;;;;;;;;;;;Spouse
+Le Roux;I;Isane;Isane;;Miss.;0407200103080;2004/07/20;20;Female;;fleroux@za.wisium.com;;;;;;0147458160;;;Principal
+Trollope;I;Iska;Iska;Van Voorst;Mrs.;8001210014080;1980/01/21;21;Female;;iska.trollope@doxadeo.org;083 258 3141;92 Windmill 3 Augrabies;PO Box 101685;;;;;;Spouse
+Rycroft;I;Isobel;Isobel;;Mev.;5908130065088;1959/08/13;13;Female;Widowed;isobel.rycroft@up.ac.za;072 797 9530;;;;;;;;Principal
+Myburgh;IA;Izak Albertus;Izak;;Mr ;6301295107086;1963/01/29;29;Male;;izak2233@gmail.com;0843001009;;;;;2078196140;;;Principal
+Du Plooy;IJ;Izak Johannes;Izak;;Mr ;6702095014089;1967/02/09;9;Male;;johan.duplooy@bigenafrica.com;0726070542;;;;;;;;Principal
+van der Merwe;JHG;J H G;J;;Mr ;5607045073084;1956/07/04;4;Male;;;;;;;;;Andre Rheeders ;;Principal
+Coetzee;J;Jaco;Jaco;;Mr.;6206085054085;1962/06/08;8;Male;;jaco@jacocoetzee.com ; 082 564 5893  ;;;;;;;;Principal
+van Staden;JMS;Jacob Mostert Saayman;Jacob;;Mr ;6109105111085;1961/09/10;10;Male;;lynnf@vsbattorneys.co.za;0824411563;1 Abbots World;PO Box 5863;;;;Philip life klient;;Principal
+Opperman;JA;Jacoba Aletta;Jacoba;;Mrs.;7707220189081;1977/07/22;22;Female;;colette.opperman@angloamerican.com;083 542 8844;19 Marakele Estate Thabazimbi;PO Box 362 Thabazimbi 0380;No;;;Phillip;;Principal
+van Staden;JG;Jacoba Glodien;Glodien ;;Mrs ;7308250071081;1973/08/25;25;Female;;glodienv@gmail.com;082925791;;;;;0113056162;;;Principal
+Steenkamp;J;Jacobus;Jacobus;;Mr.;;;;;;jabes.steenkamp@gmail.com;072 559 7924;;;;;0363472168;Francois Le Clus;;Principal
+van der Merwe ;JA;Jacobus Adriaan;Jacobus;;Mr ;6509155017084;1965/09/15;15;Male;;riaan.vandermerwe@bigengroup.com;0834337551;;;;;;;;Principal
+Steyl;JFB;Jacobus Francois Burger;Jacobus;;Mnr.;6209225010082;1962/09/22;22;Male;Married;steyl.francois@gmail.com;083 703 2334;Strelitzia Straat 13;Posbus 757;;;;Philip Roesch;;Principal
+Pieterse;JJ;Jacobus J;Jacobus;;Mr ;5810095081086;1958/10/09;9;Male;;memories@iafrica.com;0832265569;;;;;;;;Principal
+van Der Merwe;JJ;Jacobus Johannes;Koot;van Der Merwe;Mr.;6609035095084;1966/09/03;3;Male;Married - ANC with accrual;kootvdm@gmail.com;0827729577;;;;;;;;Principal
+du Bruyn;JJ;Jacobus Johannes ;Jaco;;Mr ;7411215047087;1974/11/21;21;Male;;jaco.dubruyn@bigengroup.com;0729388832;;;;;;;;Principal
+Scholtz;JJL;Jacobus Johannes Lodewicus;Jacobus;;Mr ;7412225073089;1974/12/22;22;Male;;jacques@j-d.co.za;0828911036;;;;;;;;Principal
+Erasmus;JL;Jacobus Lodewikus;Jacobus;;Mr ;6004065042083;1960/04/06;6;Male;;leon.erasmus@bigenafrica.com;0825767165;;;;;;;;Principal
+Gericke;JS;Jacobus Stefanus;Jacobus;;Mr.;8103195054089;1981/03/19;19;Male;;cobus.gericke@gmail.com;083 328 7202;Akasia Park 4459;PO Box 2157;Yes;;;Phillip;;Principal
+Smit;J;Jacolien;Jacolien;;Mrs ;7707150070087;1977/07/15;15;Female;;Jacolien.smit@exxaro.com;073 446 3402;;;;;;Exxaro;;Principal
+Smit;J;Jacolien;Jacolien;;Mrs ;7707150070087;1977/07/15;15;Female;;Jacolien.smit@exxaro.com;073 446 3402;;;;;;;;
+Riekert;J;Jacques;Jacques;;Mr ;7901065010086;1979/01/06;6;Male;;;0845282868;;;;;;;;Principal
+Van Zyl;J;Jacques;Jacques;;Mr ;6912055252084;1969/12/05;5;Male;;jacques@lawtrust.co.za;0832282008;;;;;2670208145;;;Principal
+Potgieter;JF;Jacques Francois;Jacques;;Mr.;6506305114084;1965/06/30;30;Male;;;082 387 9702;Melbos straat 12;PO Box 1561;Yes;;;Phillip;;Spouse
+Poggenpoel;JJ;Jakob Johan;Jakob;;Mr ;7102185043087;1971/02/18;18;Male;;johan.poggenpoel@doxadeo.org;0832989684;;;;;;;;Principal
+Ferreira;J;James ;James;;Mr ;9002175127080;1990/02/17;17;Male;;james.ferreira.up@gmail.com;0732136750;;;;;;;;Principal
+Hough;J;James ;James;;Mr ;8808315254084;1988/08/31;31;Male;;James.Hough@bigengroup.com;072 222 4333;;;;;;Bigen;;Principal
+Labuschagne;JF;James Frank;James;;Mr ;6308275039080;1963/08/27;27;Male;;lappies@lantic.net;083 304 0715;;;;;0308057652;;;Principal
+Janse van Rensburg;JJ;James John;James;;Mr.;6606305049080;1966/06/30;30;Male;;jansevanrensburgjames116@gmail.com;073 653 2870;Knoppiesdoring 11;PO Box 1187;No;;;Phillip;;Principal
+Badenhorst;JH;Jan Hendrik;Jan;;Mr ;7709165007088;1977/09/16;16;Male;;janneman.badenhorst@gmail.com;083 276 5237;207 Sable Mansions;;;;1635820143;;;Principal
+Theunissen;JH;Jan Hendrik;Jan;;Mr;8306235060087;1983/06/23;23;Male;;theunissenxlr@yahoo.com;0823430321;;;;;;;;Principal
+van den Berg;JL;Jan Louis;Jan;;Mr ;6409175078085;1964/09/17;17;Male;;jlvdb@bigengroup.com;0718509411;;;;;;;;Principal
+Le Grange;JP;Jan Paulus;Jan;;Mr ;4706215016088;1947/06/21;21;Male;;jplegsan@mweb.co.za;0828015643;;;;;;David skoonpa;;Principal
+Combrink;JV;Jan Venter;Jan;;Mr.;6902015005086;1969/02/01;1;Male;;vcombrink64@gmail.com;079 890 9610;Steenbok street 19;PO Box 2236;No;;;Phillip;;Principal
+Rohrbeck;JW;Jan Willem;Jan;;Mr.;7702155006087;1977/02/15;15;Male;;wilma.rohrbeck@gmail.com;084 604 4043;Doornhoek 149;Posbus 1553;No;;;Phillip;;Principal
+Rossouw;JW;Jan Willem;Jan;;Mnr.;7109215315088;1971/09/21;21;Male;Married;janw.rossouw@gmail.com;0795197040;Disa Place no 4;Posbus 1182;No;0437036650;;;;Principal
+Rossouw;J;Janco;Janco;;;;2005/07/01;1;Male;;;;;;;;;;;Child
+Strydom;J;Jandre;Jandre;;Mr ;9702145118081;1997/02/14;14;Male;;jandrestrydom97@gmail.com;0820713251;;;;;;;;Principal
+Reynecke;JWJ;Jandre Willem Jacobus;Jandre;;Mr ;9801145053080;1998/01/14;14;Male;;reyneckejandre@gmail.com;0824910958;;;;;;;;Principal
+Grimbeek;JH;Janet Hendrina;Janet;;Mrs ;5707080148088;1957/07/08;8;Female;;janet@sqeezy.co.za;0711807070;;;;;;;;Principal
+Botes;J;Jani;Jani;;Mrs ;8805090014089;1988/05/09;9;Female;;jani.brittz@yahoo.com;082 336 7728;;;;;;;;Principal
+Opperman;J;Janiel;Janiel;;Mr.;7201075228087;1972/01/07;7;Male;;janiel.opperman@angloamerican.com;083 398 4290;;;;;;;;Spouse
+Combrink;J;Janre;Janre;;;;2000/05/02;2;Male;;;;;;;;;;;Child
+Hendricks;JK;Jasmine Karen;Jasmine;;Mrs ;6509230179081;1965/09/23;23;Female;;jesse.hendricks@bigenafrica.com;079 706 6930;;;;;;;;Principal
+Phillips;JF;Jason Furze;Jason;;Mr ;7809235153084;1978/09/23;23;Male;;jason@cindynel.co.za;0711461555;;;;;;;;Principal
+Muller;JJ;Jasper J;Jasper;;Dr.;8403175078185;1984/03/17;17;Male;;jaspemuller@ymail.com;0825586718;;;;;;;;Spouse
+Thompson;J;Jeandre;Jeandre;;Mr ;8711185054081;1987/11/18;18;Male;;jeandre.thompson@gmail.com;0722047203;;;;;;Schalk life;;Principal
+Wright;JE;Jeanette Elizabeth;Jeanette;;Mrs.;8803150058088;1988/03/15;15;Female;;jnetbotha@gmail.com;;;;;;;;;Spouse
+Du Toit;J;Jehane;Jehane;;Mrs ;9211010022089;1992/11/01;1;Female;;jehanedtt@gmail.com;0836167996;;;;;;;;Principal
+Young;JA;Jennifer Anne;Jennifer;;Mrs.;5005040037081;1950/05/04;4;Female;;jenny@bluchip.co.za;071 603 4363;;;;;;;;Principal
+Kramer;J;Jennifer-Lee;Jennifer-Lee;;Miss.;;1996/12/26;26;Female;;;;;;;;;;;Child
+Celliers;J;Jessica;Jessica;;Miss.;;1997/12/01;1;Female;Single;;;;;;;;;;Adult
+Steyn;J;Joanet;Joanet;;Mrs ;8906250017084;1989/06/25;25;Female;;steynj@jgafrika.com;0823322683;;;;;;;;Principal
+Prinsloo;JJ;Jochemes Johannes ;Jochemes;;Mr ;6004055034082;1960/04/05;5;Male;;jochemes@mighty.co.za;0829418507;;;;;;Jochemus pa;;Principal
+Prinsloo;JJ;Jochemus Johannes;Jochemus;;Mnr.;9005045217080;1990/05/04;4;Male;Married - ANC with accrual;jamannatech@gmail.com;0832917901;19 Riesling villas ;19 Riesling villas ;No;;;;;Principal
+Barnard;J;Johan ;Johan;;Mr ;9104225204081;1991/04/22;22;Male;;johan.barnard101@gmail.com;0813675809;;;;;;;;Principal
+Steyn;JH;Johan Hendrik;Johan;;Mr.;9101225056081;1991/01/22;22;Male;Single;joehsteyn@yahoo.com;082 450 1358;975a Meyerstreet;975a Meyerstreet;No;;;;;Principal
+Steyn;JH;Johan Hendrik;Johan;;Mr.;5808095040086;1958/08/09;9;Male;;johanhsteyn@yahoo.com;082 774 4920;;;;;;;;Principal
+Moolman;J;Johann;Johann;;Mr ;5010095176081;1950/10/09;9;Male;;moolmanart@gmail.com;0824947022;;;;;;;;Principal
+Bruwer;JD;Johann Daniel;Johann;;Mr ;6904095002082;1969/04/09;9;Male;;bruworks01@gmail.com;0824485050;;;;;;Gaukes ;;Principal
+Bouwer;JDB;Johann Daniel Bouwer;Johann;;Mr ;7601025020080;1976/01/02;2;Male;;johannbouwer911@gmail.com;0825637881;;;;;;;;Principal
+Delport;JC;Johanna Catharina ;Johanna;;Mrs ;8201300103088;1982/01/30;30;Female;;carindelport1@gmail.com;0832878039;;;;;;;;Spouse
+Reinecke;JC;Johanna Christina;Jo-Christi;Bronkhorst;Mrs.;8511220075087;1985/11/22;22;Female;Married;jo-christie@silverton.org;072 322 3231;;;;;;;;Adult
+Boshoff;JJ;Johanna Jacoba;Johanna;;Mrs ;7004090223087;1970/04/09;9;Female;;joanie.boshoff@gmail.com;0662074919;;;;;;;;Spouse
+De Villiers;J;Johannes;Johannes;;;;2006/08/21;21;Male;;;;;;;;;;;Child
+Nel;JA;Johannes Adriaan;Johannes;;Mr.;5904175065083;1959/04/17;17;Male;;johannel@live.com;072 032 2640;8 Koraalboomstraat ;PO bOX 970;No;;;Phillip;;Principal
+Le Roux;JB;Johannes Bernardus;Johannes;;Mnr.;5409095034086;1954/09/09;9;Male;;Rianalr@telkomsa.net;0833040797;;;No;;;;;Spouse
+Bekker;JF;Johannes Frederik;Johannes;;Mr ;6904225003083;1969/04/22;22;Male;;derekbekker@yahoo.com;0645079664;47 Diederik street;PO Box 1123;No;;;Phillip;;Principal
+Coetzee;JJ;Johannes Jacobus;Johannes;;Mr ;6809115104083;1968/09/11;11;Male;;johanc68@gmail.com;0834489401;;;;;0373061647;;;Principal
+swart;JJ;Johannes Jacobus;Jaco;;Mr ;6806185159088;1968/06/18;18;Male;;jaco.swart@minopex.com;0835549149;;;;;;;;Principal
+Visser;JJ;Johannes Jacous;Johannes;;Mr;6701295123084;1967/01/29;29;Male;;Johan.Visser@bigenafrica.com;0828885265;;;;;;;;Principal
+van Lill;JJ;Johannes Jacques;Johannes;;Mr ;6902275215086;1969/02/27;27;Male;;jacques@exacct.co.za;083 455 9699;;;;;;Schalk Disc klient ;;Principal
+Fourie;JJ;Johannes Jurgens;Johannes;;Mr ;5306095010084;1953/06/09;9;Male;;hsfourief250@gmail.com;;;;;;;Gerjo life klient;;Principal
+Bekker;JJ;Johannes Jurgens ;Johannes;;;;1993/07/29;29;Male;;;;;;;;;;;Child
+Marais;JL;Johannes Lodewyk;Johannes;;Mr ;6202225104088;1962/02/22;22;Male;;maraisjalr@mweb.co.za;0828004091;;;;0666267216;;Andries life klient;;Spouse
+Nel;JL;Johannes Louis;Johannes;;;;;;Male;;;;;;;;;;;Child
+Van der Walt;JO;Johannes O'Kelly;Johannes;;Mnr.;4912045026087;1949/12/04;4;Male;;;;;;;;;;;Principal
+Kruger;JP;Johannes Phillip ;Johannes;;Mr ;8104085030080;1981/04/08;8;Male;;Hanno.Kruger@bigenafrica.com;012 842 8795;;;;;;;;Principal
+Liddle;JDP;John Dick Paul;Paul;;Mr ;0706135096081;2007/06/13;13;Male;;biancal@attooh.co.za;;630 Smook Avenue;630 Smook Avenue;;;;;;Principal
+Cowper;JG;John Guy;John;;Mr;7012195238082;1970/12/19;19;Male;;jgcowper@gmail.com;0833846407;;;;;;;;Principal
+Bell;JM;John Matthew;John;;Mr ;3809245072088;1938/09/24;24;Male;;admin@sinergie.co.za;0824623807;;;;;;;;Principal
+Findlay;JWH;John Wallace Henry ;John;;Mr ;5608015092088;1956/08/01;1;Male;;;0823867272;;;;;;;;Principal
+Karsten;J;Jonathan;Jonathan;;Mr ;8905095190080;1989/05/09;9;Male;;karstenjonathan@gmail.com;0725562361;;;;;;;;Principal
+Hoffman;JJ;Jonathan Johan;Jonathan;;;;1997/12/29;29;Male;;;;;;;;;;;Child
+Mays;JL;Jordan Leigh;Jordan;;Miss.;1212280274085;2012/12/28;28;Female;;;;;;;;;;;Child
+De Sousa;JMB;Jose Manuel Braz;Jose;;Mr.;6802165145080;1968/02/16;16;Male;;sales1@vewholdings.co.za;076 014 4435;;Po Box 4167;Yes;;;;;Spouse
+Kock;JL;Joseph Llewellyn;Joseph;;Mr.;7003315041084;1970/03/31;31;Male;;elpisjk@gmail.com;083 419 2010;4 Begonia street;PO Box 2438;No;;1421001064;Phillip;;Principal
+Hoffman;J;Josephine;Josephine;;Mrs.;7508280003083;1975/08/28;28;Female;;houseofhoffmans@gmail.com;079 165 4339;;;;;;;;Spouse
+Hoffman;J;Josephine;Josephine;;;;1997/08/15;15;Female;;;;;;;;;;;Child
+Kock;J;Jozandre;Jozandre;;;;;;Female;;;;;;;;;;;Child
+Geldenhuys;JF;Juan Francois;Juan;;Mr ;8503105023084;1985/03/10;10;Male;;juan.geldenhuys@gmail.com;0827188258;;;;;;;;Principal
+Swanepoel;J;Juanette;Juanette;;;;1988/07/27;27;Female;;janine.swanepoel@sage.com;0716126758;9 Greenfields;P O Box 41471;;;;;;Adult
+Herholdt;J;Juanita ;Juanita;;Mrs ;6607040089084;1966/07/04;4;Female;;;;;;;;;;;Spouse
+Landsdale;J;Juan-Lee;Juan-Lee;;Mrs ;9008130088085;1990/08/13;13;Female;;juanleekruger@icloud.com;0741309700;;;;;;;;Principal
+Hayes;JEP;Jury Eddie Patrick;Jury;;Mr ;5508315039088;1955/08/31;31;Male;;phayes089@gmail.com;083 407 1216;;;;;;Chris Mom;;Principal
+Botha;J;Justin ;Justin;;Mr ;;;;;;justinjuicebotha10@gmail.com;071 637 5639;;;;;;;;Principal
+Botha;J;Justin ;Justin;;Mr ;;;;;;justinjuicebotha10@gmail.com;071 637 5639;;;;;;;;Principal
+Makhakhe;KV;Kabelo Veronica;Kabelo;;Mrs ;1105090140084;2011/05/09;9;Female;;;;;;;;;;;Child
+Mokoena;KL;Karabo Lerato;Karabo;;Miss.;8905220195087;1989/05/22;22;Female;Single;kaymokoena@gmail.com;0725848644;A1204 Hill of Good Hope ;PO Box 6958;Yes;;;Tiaan;;Principal
+van Zijl;K;Karen;Karen;Wiese;Dr.;7012060069083;1970/12/06;6;Female;;vanzijlkaren@gmail.com;084 811 8883;;;;;;;;Spouse
+van Rooyen;K;Karin;Karin;Trollip;Mrs ;6906100026089;1969/06/10;10;Female;;naas_vanrooyen@yahoo.com;0799534048;;;;;;;;Principal
+Vogel;KG;Karl Gerhard;Karl;;Mr ;8301115272084;1983/01/11;11;Male;;kgvogel@gmail.com;0828810635;;;;;;;;Principal
+Strydom;K;Karlien;Karlien;;Mrs.;7210250010087;1972/10/25;25;Female;;karlienstrdm@gmail.com;082 854 5348;;;No;;;;;Spouse
+Richards;K;Katelyn;Katelyn;;;;;;;;;;;;;;;;;Child
+Pillay;K;Kevindran;Kevin;;Mr ;7505165115081;1975/05/16;16;Male;;kevin.pillay@bigengroup.com;0845101968;;;;;;;;Principal
+van Der Merwe;K;Koot;Koot;van Der Merwe;Mr.;;2004/04/26;26;Male;Single;;;;;;;;;;Child
+Gelderblom;KB;Kristeen Bronwyn;Kristeen;;Mrs ;7811100236085;1978/11/10;10;Female;;kirsteen@titanel.co.za;;;;;;;Bigen lead;;Principal
+Carla;K;Krogh;Krogh;;Ms;8912060206081;1989/12/06;6;Female;;karlakrogh1@gmail.com;082 576 1453;;;;;;;;Principal
+Mitchell;LN;Lance Nickey;Lance;;Mr.;9004255331087;1990/04/25;25;Male;;lance.n.mitchell@gmail.com;0826963504;;;;;;;;Spouse
+Kruger;L;Lee-Ann;Lee-Ann;;Mrs.;8802220062088;1988/02/22;22;Female;;;082 319 3118;147 Mcbride Straat;;;;;;;Spouse
+Zietsman;LJ;Leendert Johannes ;Ziets;;Mr ;7601275107082;1976/01/27;27;Male;;leendert@civilconcepts.co.za;084 619 5838;;;;;;;;Principal
+Gopane;LTD;Lehlohonlo Thabo David;Lehlohonlo;;Mr ;8810305747085;1988/10/30;30;Male;;LTDGOPANE@gmail.com;0817978633;;;;;;;;Principal
+De Sousa;L;Lelane;Lelane;;Mrs.;7001180031081;1970/01/18;18;Female;Married;lelane@spokedmelon.co.za;083 430 5222;4 Groendoring Street;Po Box 4167;Yes;;;;;Principal
+du Toit;L;Leon;Leon;;Mr ;6303175065087;1963/03/17;17;Male;;leondutoit86@gmail.com;0826007404;;;;;;;;Principal
+Engelbrecht;L;Leon;Leon;;Mr ;5601315100081;1956/01/31;31;Male;;mitzmotors1@gmail.com;082 875 8975;;;;;;;;Principal
+Pretorius;L;Leon;Leon;;Mr ;8408235036081;;;;;leonpret23@gmail.com;0836564310;;;;;;;;Principal
+Chempe;L;Letlhogonolo;Letlhogonolo;;Miss.;8502220816083;1985/02/22;22;Female;;hope.chempe@angloamerican.com;083 703 4566;245 Sycamore Street;245 Sycamore Street;No;;;Phillip;;Principal
+Moonsamy;L;Levashni;Levashni;Moonsamy;Miss.;9111210116089;1991/11/21;21;Female;Single;levashni.m@gmail.com;0725842060;480 Primrose street;;;;;;;Principal
+Harrison;L;Liane;Liane;;Miss.;111022;2011/10/22;22;Female;Single;;;;;;;;;;Child
+Branders;L;Lieschen;Lieschen;;Miss.;9107160140087;1991/07/16;16;Female;;lieschenbranders@gmail.com;0823692082;;;;;;;;Principal
+van der Merwe;LL;Liesel Laura;Liesel;;Dr.;6903230010083;1969/03/23;23;Female;;lieselvdmvet@telkomsa.net;082 330 0254;;;;;;Stiaan se Discovery klient;;Principal
+Meintjes;L;Linda;Linda;Greef;Mrs ;5106140076084;1951/06/14;14;Female;;meinfam@mweb.co.za;082 920 5827;Tau Road 378;PO BOX 11420;;;1297171645;;;Principal
+Piek;L;Linda ;Linda;;Mrs ;7102280051084;1971/02/28;28;Female;;Lpiek@xsinet.co.za;0833089760;;;;;;;;Principal
+Schoeman;L;Lizelle;Lizelle;;Mrs ;7004130091080;1970/04/13;13;Female;;creative@attooh.co.za;0833667662;;;;;;;;Principal
+Fourie;L;Lizelle ;Lizelle;Badenhorst;Miss.;9609270070088;1996/09/27;27;Female;;Lizelle.fourie2802@gmail.com;0718694308;;;;;;;;Principal
+Rossouw;L;Lize-Mari;Lize-Mari;;;;2001/01/10;10;Female;;;;;;;;;;;Child
+Joubert;LK;Lizmari Karen;Lizmari;;Mrs ;9104210154085;1991/04/21;21;Female;;lizmari.joubert39@gmail.com;0817944768;;;;;;;;Principal
+Biggs;L;Llewellyn;Llewellyn;;Mr;7701035065081;1977/01/03;3;Male;;Llewellyn.Biggs@bigengroup.com;0794973144;;;;;;;;Principal
+Botha;L;Llyn-Mari;Llyn-Mari;Hartley;Mrs.;9012060319080;1990/12/06;6;Female;;;074 074 3344;;;;;;;;Spouse
+Steyn;L;Lobke;Lobke;;Mrs ;8712240009086;1987/12/24;24;Female;;lsteyn@za.wisium.com;0648509604;;;;;;;;Principal
+De Villiers;L;Louis;Louis;;;;2009/09/07;7;Male;;;;;;;;;;;Child
+Louw;L;Louis;Louis;;Mr ;3712105017088;1937/12/10;10;Male;;isabellouw7@gmail.com;;;;;;;;;Spouse
+Maritz;L;Louis;Louis;;Mr.;5711055105081;1957/11/05;5;Male;Married;louismaritz1@gmail.com;083 304 7154;Koraalboom Street 3;Po Box 358;No;;;Philip Roesch;;Principal
+Botha;LH;Louis Heinrich;Louis;;Mr.;8804255147081;1988/04/25;25;Male;Single;louis.botha@frasermcgill.com;079 515 0856;31 Le Gables;31 Le Gables;No;1636001701;;;;Principal
+Hoffman;LJ;Louis Johannes;Louis;;Mr.;7108195038082;1971/08/19;19;Male;;lhoffman74@gmail.com;078 369 9049;Loerie 16;2287;;;;Philip Roesch;;Principal
+De Villiers;L;Lounel;Lounel;;Mrs.;7609040132087;1976/09/04;4;;;rooiborsie@gmail.com;082 610 4002;;;;;;;;Spouse
+Booysen;L;Lucas;Lucas;;Mr ;7709195080089;1977/09/19;19;Male;;lucas.booysen@gmail.com;0767549739;;;;;;;;Principal
+Harrison;LC;Lucas Cornelius;Lucas;;Mr.;8310035312086;1983/10/03;3;Male;Married in COP;cornelharrison@gmail.com;0832522258;1 Megans place;1 Megans place;No;;;;;Principal
+Booysen;LJ;Lucas Jaden;Lucas;;Mr ;1109206508085;2011/09/20;20;Male;;;;;;;;;;;Child
+Findlay;LS;Lucia Suzette;Suzette;;Mrs ;6111220045081;1961/11/22;22;Female;;suzette@attooh.co.za;0829223333;;;;;;;;Principal
+Sebatane;LK;Luntu Keabetswe;Luntu;;Mrs ;8003310428087;1980/03/31;31;Female;;luntu.sebatne@gmail.com;0726517001;;;;;;;;Principal
+Nundu;L;Luthando;Luthando;;;;2015/08/01;1;Female;;;;;;;;;;;Child
+Combrink;L;Luzaan;Luzaan;;;;;;Female;;;;;;;;;;;Spouse
+Myburgh;L;Lynette ;Lynette;;Mrs ;6408070104087;1964/08/07;7;Female;;myburghlynette0@gmail.com;0823657551;;;;;1729225142;;;Spouse
+Duke;L;Lynne;Lynne;;Mrs ;;;;Female;Married;;;;;;;;;;Adult
+Makhakhe;MV;Mabana Veronica;Mabana;;Mrs ;7812041036089;1978/12/04;4;;;mvmmakhakhe@gmail.com;0829717051;;;;;;;;Principal
+Makhakhe;M;Mabane ;Mabane;;Mrs ;;1978/12/04;4;;;;;;;;;;;;Principal
+Reinecke;MF;Machiel Frederick;Machiel;;Mr.;8008305132081;1980/08/30;30;Male;Married;machiel@chrometraders.com;0647524186;Doornhoek 123;Po Box 883;Yes;;;Philip Roesch;;Principal
+Naude;M;Madeleine;Madeleine;;Mrs ;5601100103084;;;Female;;madeleine@attooh.co.za;0711501338;;;;;;;;Principal
+van Der Merwe;M;Madri;Madri;van Der Merwe;Miss.;950526;1999/05/26;26;Female;Single;;;;;;;;;;Child
+Bekker;MG;Magdalena Gertruida;Magdalena;;Mrs.;6610150102085;1966/10/15;15;Female;;magda_bekker@yahoo.com;0826791411 ;47 Diederik street;PO Box 1123;Yes;;;;;Spouse
+van Zyl;MM;Magdalena Margaretha;Magdalena;;Mrs ;7603250073081;1976/03/25;25;Female;;pietengriet@gmail.com;083 276 4603;16 Minni Street;16 Minni Street;;;1011311147;;;Spouse
+Braney;MP;Magdalena Petronella;Magdalena;;Mrs ;5205280046087;1952/05/28;28;Female;;rightbrainer1952@gmail.com;0741173339;;;;;;;;Principal
+van den Berg;MPJ;Magdalena Petronella Jacoba;Magdalena;;Mrs ;6811040016085;1968/11/04;4;Female;;madeleen@attoohjhb.co.za;0827840852;;;;;;;;Principal
+Badenhorst;MF;Magrietha florence;Magrietha;;Mrs.;8605230151084;1986/05/23;23;Female;;magrietbadenhorst1@gmail.com;082 987 1725;;;;;;;;Spouse
+Hays;MS;Magrietha Sophia;Magrietha;;Mrs ;6008100054086;1960/08/10;10;Female;;ritahayes6@gmail.com;0835554741;;;;;;;;Principal
+Hays;MS;Magrietha Sophia;Magrietha;;Mrs ;6008100054086;1960/08/10;10;Female;;ritahayes6@gmail.com;0835554741;;;;;;;;Principal
+Kruger;M;Maliza;Maliza;;Mrs ;7508290117089;1975/08/29;29;Female;;maliza.kruger@epiuse.com;0828509365;;;;;;;;Principal
+Verster;M;Marcel;Marcel;;Mrs ;6907270400088;1969/07/27;27;Female;;;;;;;;;;;Spouse
+van Drunick;MAAL;Marcel Armand Alexander Lucienne;Marcel;;Mr ;6210015176083;1962/10/01;1;Male;;mpraktyk@lantic.net;0836567379;;;;;;Rene lead;;Principal
+Swart;M;Marchelle;Marchelle;;;;2000/01/07;7;Female;;;;;;;;;;;Child
+Bakker;M;Marco;Marco;;Mr ;7112015115088;1971/12/01;1;Male;;mbakker@shoprite.co.za;0829247644;;;;;;Rene life klient;;Principal
+Harrison;M;Marelize;Marelize;;Mrs.;8906010047082;1989/06/01;1;Female;Married in COP;;0835475318;1 Megans place;1 Megans place;;;;;;Spouse
+du Plessis;M;Maret;Maret;;Mrs.;8812160005088;1988/12/16;16;Female;;maui1bg@gmail.com;083 654 5244;;;;;;;;Principal
+West;MJ;Maria Jacova;Maria;;Mrs ;761111041081;;;;;;0824471168;;;;;;;;Spouse
+Findlay;MM;Maria Margarett;Maria;;Mrs;6102120031081;1961/02/12;12;Female;;;0823867272;;;;;;;;Spouse
+Prinsloo;MM;Maria Mathilda;Maria;;Mrs ;5112170111080;1951/12/17;17;Female;;thillap@webmail.com;0832320680;;;;;;;;Spouse
+Scheepers;M;Mariette;Mariette;;;;;;Female;;;;;;;;;;;Child
+Branders;M;Marilet;Marilet;;Miss.;8801080007084;1988/01/08;8;Female;;Marilet Branders (ZA) marilet.branders@pwc.com;0824861365;;;;;;;;Principal
+Ramrattan;M;Marilyn;Marilyn;;Mrs.;8202230038089;1982/02/23;23;Female;;;;;;;;;;;Spouse
+Badenhorst;M;Marinda;Marinda;;Mrs ;8411280212086;1984/11/28;28;Female;;marindab@gmail.com;0605283403;;;;;;;;Principal
+Badenhorst;M;Marinda;Marinda;;Mrs ;8411280212086;1984/11/28;28;Female;;marindab@gmail.com;0605283403;;;;;;;;Principal
+Harris;M;Marissa ;Marissa;;Mrs ;9308300017082;1993/08/30;30;Female;;marissadelchmann@gmail.com;0662153734;;;;;;;;Principal
+Kleingeld;M;Marius;Marius;;Mr ;6802085019084;1968/02/08;8;Male;;mkleingeld@remsZ.com;0833734549;;;;;;Ian Marais  Life klient ;;Principal
+Scheepers;M;Marius ;Marius;;Mr ;8101125003085;1981/01/12;12;Male;;mariusscheepers@gmail.com;0610393721;;;;;;;;Spouse
+Oakes;MM;Mark Mannington;Mark;;Mr ;7012115031088;1970/12/11;11;Male;;otter68uk@gmail.com;083 258 8768;;;;;;Bigen;;Principal
+Pelser;M;Marli;Marli;;Mrs ;8901080064083;1989/01/08;8;Female;;MarliP@fmi.co.za;0823899384;;;;;;;;Spouse
+Pretorius;MC;Martha Christina;Martha;;Mrs ;8504230084082;1985/04/23;23;Female;;pretoriuschnsting@gmail.com;0725545335;;;;;;;;Spouse
+Branders;MFM;Martha Francina Maria;Martha;;Mrs ;6306190190087;1963/06/19;19;Female;;martiebranders@gmail.com;0836259975;;;;;;;;Principal
+Van der Merwe;MCJ;Marthinus Christiaan Johannes;Marthinus;;Mr.;6912265010082;1969/12/26;26;Male;;mariuscjvdm69@gmail.com;083 347 1720;6de Laan 69;PO Box 915;Yes;;;Phillip;;Principal
+Kruger;ML;Marthinus Lyons;Marthinus;;Mr.;8511085028080;1985/11/08;8;Male;;Thinuskruger@ruwag.co.za;082 260 8766;8 Brakenberg Villas;Po Box 31781;;;;;;Principal
+Van Rensburg;MPF;Marthinus Petrus Frederik;Marthinus;;Mr.;5302215056081;1953/02/21;21;Male;Married;tinus.m.vanrensburg@angloamerican.com;083 269 7995;31 Steenbok street;Po Box 717;;;;Philip Roesch;;Principal
+Janse van Rensburg;MJ;Martin Jean;Martin;;;;1996/03/26;26;Male;;;;;;;;;;;Child
+Gericke;M;Maryke;Maryke;;Miss.;;2014/01/01;1;Female;;;;;;;;;;;Adult
+Mogale;MM;Matgabatga Michael;Matgabatga;;Mr ;9002205635086;1990/02/20;20;Male;;mikemokgale@yahoo.com;0727622687;;;;;;;;Principal
+Pansegrouw;MG;Mattheus Gerhardus ;Mattheus;;Mr ;6709295184089;1967/09/29;29;Male;;mattpanex@gmail.com;0824937126;;;;;;;;Principal
+Botha;M;Maune;Maune;;Miss.;9510220052087;1995/10/22;22;Female;;maune.botha@gmail.com;0714125133;;;;;;;;Principal
+Madlala;M;Mbulienhle;Mbulienhle;;;;2005/08/13;13;Female;;;;;;;;;;;Child
+Estherhuysen;M;Megan;Megan;;Mrs ;8505050087089;1985/05/05;5;Female;Married;klosemegan@gmail.com;0794920658;;;;;;;;Spouse
+Frazer;M;Melanie;Melanie;;Mrs ;6211250076087;1962/11/25;25;Female;;melaniefrazer@telkomsa.net;0824501074;;;;;;;;Principal
+Liddle;MP;Melantin Pieter ;Melantin;;Mr ;0902035298089;2009/02/03;3;Male;;biancal@attooh.co.za;;630 Smook Avenue;630 Smook Avenue;;;;;;Principal
+Workel;MAT;Melisa Agnethia Tanya;Melisa;Workel;Miss.;8211160127085;1982/11/16;16;Female;;sportstalk101sa@gmail.com;0837969110;;;;;;;;Principal
+Gericke;M;Melissa;Melissa;;Miss.;;2005/12/17;17;Female;;;;;;;;;;;Child
+Poggenpoel;M;Melissa;Melissa;;Miss.;9708290021087;1997/08/29;29;Female;;Melissapogs@gmail.com;0833756291;;;;;;;;Principal
+Berg;MC;Melissa Cherie;Melissa;;Mrs ;8507120005083;1985/07/12;12;Female;;MelissaB3@discovery.co.za;0798842708;;;;;;;;Principal
+Potgieter;M;Melize;Melize;;;9503100030083;1995/03/10;10;Female;;;;;;;;;;;Child
+Braney;MD;Michael David;Michael;;Mr ;4409155076184;1944/09/15;15;Male;;Starlight34@rocketmail.com;0622599889;;;;;;;;Spouse
+Botha;MH;Michael Hendrik;Michael;;Mr.;8608015179080;1986/08/01;1;Male;Single;michaelhbotha@gmail.com;082 309 7939;43 Valde Sol Outiniqua Street;Po Box 31844;No;;;;;Principal
+Celliers;M;Michaela;Michaela;;Ms;;2003/09/05;5;Female;;;;;;;;;;;Principal
+Meiring;MJ;Micheal Jacobus;Giel;;Mr ;6504095024084;1965/04/09;9;Male;Married in COP;gielmeiring@gmail.com;0823771446;Plot 56 ;PO Box 974 ;No;;;;;Principal
+Buys;MA;Michiel Andries;Michiel;;Mr.;8606235221088;1986/06/23;23;Male;;andriesb731@gmail.com;083 757 7599;Diedericks Steet 53;PO Box 1536;;;;Phillip;;Principal
+Meiring;M;Mick;Mick;;;;1996/08/20;20;Male;;;;;;;;;;;Child
+Booysen;M;Milane;Milane;;Miss.;1909250540086;2019/09/25;25;Female;;;;;;;;;;;Child
+Scheepers;M;MIM;MIM;;Mrs.;8303120043088;1983/03/12;12;Female;;;076 675 9491;;;Yes;;;Phillip;;Spouse
+van der Elst;M;Minette;Minette;;Mrs ;8203090024086;1982/03/09;9;Female;;minettevdelst@gmail.com;0725238385;;;;;;;;Principal
+Nadesan;M;Minoka;Minoka;;Mrs ;8011010171089;1980/11/01;1;Female;;Doc3@noviskin.co.za;0829981787;;;;;;Stian life klient;;Principal
+Steenkamp;M;Mone;Moné;;Mev.;;;;Female;Married - ANC without accrual;monesvr@gmail.com;0726942338;;;;;;;;Adult
+Janse van Rensburg;M;Monia;Monia;;;;2003/07/17;17;Female;;;;;;;;;;;Child
+Hefer;M;Monica;Monica;;Mrs ;6809250118088;1968/09/25;25;Female;;monica.hefer@hernic.co.za;084 593 0724;;;;;;;;Principal
+Maphumulo;MN;Monica Nothando;Monica;;Mrs ;8502050338083;1985/02/05;5;Female;;monica.maphumulo@exxaro.com;071 000 6848;;;;;;Exxaro;;Principal
+Meiring;M;Monique;Monique;;;;1994/02/02;2;Male;;;;;;;;;;;Child
+Pretorius;M;Morne;Morne;;Mr ;7203015007084;1972/03/01;1;Male;Married in COP;ptaauto@mweb.co.za;0829676245;;;;;;;;Principal
+Kgaphola;ME;Morwangwato Esrom;Esrom;;Mr ;5801225808084;1958/01/22;22;Male;;esromkgaphola595@gmail.com;0828940115;;;;;;;;Principal
+Makhakhe;MV;Motlatsi Vincent;Motlatsi;;Mr ;7807185404085;1978/07/18;18;Male;;Makhakhe@bigengroup.com;0825598837;;;;;;;;Principal
+Gibson;MW;Murray William;Murray;;Mr ;GA105343;;;;;bill@KBItraining.com;082 450 9877;;;;;;;;Spouse
+Horn;N;Nadia;Nadia;;Mrs ;9007130084086;1990/07/13;13;Female;;nadiahorn1@gmail.com;0614309082;;;;;;;;Spouse
+Myburgh;N;Nagel;Nagel;;Mr ;751005101088;1975/10/05;5;;;nagel.myburgh@doxadeo.org;0832719027;;;;;;;;Principal
+Harris;NW;Nevin William;Nevin;;Mr ;9007025013083;1990/07/02;2;Male;;nevvin.harris@gmail.com;0662386201;;;;;;;;Spouse
+du Plessis;NC;Nicolaas Cornelius;Nicolaas;;Mr ;8606105218081;1986/06/10;10;Male;;ncduplessis@gmail.com;060 518 4313;;;;;;;;Spouse
+Prinsloo;N;Nicolette;Nicolette;Prinsloo;Miss.;8203240050080;1982/03/24;24;Female;Single;nicolette@gcis.gov.za;0723352801;555 Airedale Str;PO BOX 35186;;;;;;Principal
+Ngcengeni;N;Nkcubelo;Nkcubelo;;;;2014/01/07;7;Male;;;;;;;;;;;Child
+Letsholo;NW;Nomvula W;Nomvula;;Mrs ;6301310387085;1963/01/31;31;Female;;nonnie.letsholo@bigengroup.com;0828848072;;;;;;Bigen;;Principal
+Kraai;N;ntokozo;ntokozo;;;19950302;1995/03/02;2;Male;;;;;;;;;;;Child
+Maharaj;P;Pamela;Pamela;;Mrs ;6702260186080;1967/02/26;26;Female;;;0824582518;;;;;;;;Spouse
+Whelan;PE;Patric Evan;Patric;;Mr ;1304055479088;2013/04/05;5;Female;;;;;;;;;;;Child
+Whelan;PG;Patric George;Patric;;Mr ;8401115153084;1984/01/11;11;Male;;pg@relentlessconsulting.co.za;0728228176;;;;;;;;Principal
+Hattingh;P;Patrick;Patrick;;Mr ;9110186090088;1991/10/18;18;Male;;patrickhattingh@gmaill.com;0824342280;;;;;;;;Spouse
+Bevan;P;Paul;Paul;;Mr ;6103265040085;1961/03/26;26;Male;;pbevan@me.com;0828045201;;;;;;Tiaan de Jager;;Principal
+Bodenstein;P;Paul;Paul;;Mr.;8812055072086;1988/12/05;5;Male;Single;Paulbodenstein@yahoo.com;082 705 4244;47 Cuckoo;47 Cuckoo;;;;;;Principal
+Workel;P;Paul;Paul;;Mr ;;;;;;melissa.workel@iface.co.za;;;;;;;;;Principal
+Visser;PM;Paula Machteld ;Paula;;Mrs ;7208190028086;1972/08/19;19;Female;;Paula.vreugde@gmail.com;0824421897;;;;;;;;Spouse
+van Niekerk;P;Petra;Petra;;Mrs ;6011200070085;1960/11/20;20;Female;;vanniekerkpetra20@gmail.com;0826699533;;;;;;;;Principal
+Van Zyl;P;Petrus;Petrus;;Mr.;8407015041089;1984/07/01;1;Male;Single;Peetvanzyl@hotmail.com;071 609 8311;7 Rocky Ridge 1 Marula Crescent;PO Box 22393;No;;;;;Principal
+van Zyl;P;Petrus;Petrus;;Mr ;7604235017086;1976/04/23;23;Male;;pietengriet@gmail.com;083 258 2748;16 Minni Street;16 Minni Street;;;0597664150;;;Principal
+Botes;PA;Petrus Andreas;Petrus;;Mr;6804045003083;1968/04/04;4;Male;;pierriebotes@gmail.com;0791935510;;;;;;;;Principal
+van Rooyen;PC;Petrus Christiaan;Petrus;;Mr ;7506025150086;;;Male;; C.VANROOYEN@bouygues-construction.com;;;;;;;Stiaan se klient ;;Principal
+de Jager;PCC;Petrus Christiaan Cornelius;Petrus;;Mr ;3011275015083;1930/11/27;27;Male;;lyzinda1234@gmail.com;0834008029;;;;;;;;Principal
+Meintjes;PH;Petrus Hendrik;Petrus;;Mr ;3801125059087;1938/01/12;12;Male;;meinfam@mweb.co.za;082 920 5827;;;;;;;;Spouse
+Vermeulen;PH;Petrus Hermanus;Petrus;;Mr ;7511255109083;1975/11/25;25;Male;;hernus@hotmail.co.za;082 4681276;;;;;;;;Principal
+Lee;PP;Petrus Paulus ;Petrus;;;;1993/06/23;23;Male;;;;;;;;;;;Child
+Engelbrecht;PR;Petrus Rasmus;Petrus;;Mr.;9108215084080;1991/08/21;21;Male;Single;prengelbrecht@gmail.com;082 685 0227;1122 Burnette Street;;;;;;;Principal
+Mdazane;P;Phatheka;Phatheka;;Mrs ;8309190634086;1983/09/19;19;Female;;patido@gmail.com;0837356269;479  Cabernet street;;;;;Herman klient;;Principal
+Kraai;P;Phelokazi;Phelokazi;;;;2009/12/10;10;Female;;;;;;;;;;;Child
+Kotze;PD;Philip Daniel;Philip;;Mr ;8602245068080;1986/02/24;24;Male;;suzeth.kotze@gmail.com;0664081235;;;;;;;;Principal
+Schoeman;PCF;Phillipos Cornelius Fouche;Cornel;;Mr ;7311095174086;1973/11/09;9;Male;;cornel@genric.co.za;0828544220;;;;;;;;Principal
+Kraai;P;Phumelele;Phumelele;;;;2005/04/28;28;Female;;;;;;;;;;;Child
+Kraai;P;Phumla;Phumla;;;;1999/03/11;11;Female;;;;;;;;;;;Child
+Rademeyer;P;Pieter;Pieter;;Mr ;7301105005081;1973/01/10;10;Male;;p.rademeyer@gmail.com;0828526315;;;;;;Bigen;;Principal
+Snyman;PA;Pieter Adrianas;Pieter;;Mr;6008125060084;1960/08/12;12;Male;;pietersnyman@pasnyman.co.za;0824535289;;;;;;Hannette life klient;;Principal
+Bezuidenhout;PG;Pieter George;Pieter;;Mr ;9103045179085;1991/03/04;4;;;pieterbezuidenhout5@gmail.com;084 627 6266;7 Lynburn Road;;;;;;;Principal
+Badenhorst;Q;Quintin;Quintin;;Mr.;8806175033085;1988/06/17;17;Male;Single;quintin.badenhorst@angloamerican.com;0605375533;;;;;;;;Principal
+Rossouw;RME;Rachel Maria Elizabeth;Rachel;;Mev.;7308030255087;1973/08/03;3;Female;;rossouw.rachel@gmail.com;084 514 6178;Disa Place no 4;Posbus 1182;;;;;;Spouse
+Viljoen;RS;Rachel Susanna;Rachel;;Mrs ;7110130123086;1971/10/13;13;Female;;Rachel.viljoen@absa.co.za;072 692 8854;Bess street 771;;;;0927064642;;;Principal
+Singh;R;Rakesh;Rakesh;;Mr ;7212015029089;1972/12/01;1;Male;Married;rakkoot@yahoo.com;0828909375;house 26 ;PO Box 1548;No;;;Phillip;;Principal
+Jayshree;CR;Ramkissoon;;;Mrs.;7403170161086;1974/03/17;17;Female;;ramkissoonj@dwc.gov.za;083 607 0027;;;;;;;;Principal
+Selepe;RS;Refiloe Sybel;Refiloe;;Mrs ;8908030293084;1989/08/03;3;Female;;refiloe.selepe@exxaro.com;073 380 3349;;;;;;Exxaro;;Principal
+Reinecke;R;Reghardt;Reghardt;;;;2014/02/13;13;Male;;;;;;;;;;;Child
+Venter;R;Rene;Rene;Jordaan;Mrs.;7104250030080;1971/04/25;25;Female;Married;rene.venter@lancet.co.za;083 571 5046;;;;;0180018657;;;Spouse
+Steyn;RE;Rene Elizabeth;Rene;;Mrs.;6402260083086;1964/02/26;26;Female;;johanhsteyn@yahoo.com;082 855 5419;;;;;;;;Spouse
+Meyer;RJ;Rene Johannes;Rene;;Mr.;7211155024082;1972/11/15;15;Male;Married;meyer.rene98@gmail.com;082 873 2391;6de laan 28;Po Box 1691;No;;;;;Principal
+Leach;R;Renier;Renier;;Mr ;8901235138089;1989/01/23;23;Male;;renierleach@gmail.com;0723845902;;;;;;;;Principal
+Matshidze ;RD;Rhulani Daphney;Rhulani;;Mrs ;7808210389085;1978/08/21;21;Female;;Rmatshidza@gmail.com;0829059624;;;;;;;;Principal
+Marais;R;Riaan ;Riaan;;Mr ;9005195010087;1990/05/19;19;Male;Married;hendrikfourie28@gmail.com;;;;;;;;;Principal
+van Reenen;R;Rialene;Rialene;;Mrs ;7509170046083;1975/09/17;17;Female;;rialenevr@icloud.com;0662229362;;;;;;;;Principal
+Le Roux;R;Riana;Riana;;Mrs.;5712280045084;1957/12/28;28;Female;;Riana.leroux@angloamerican.com;082 899 6934;51Steenbok street ;PO Box 1568;No;;;Phillip;;Principal
+Nel;R;Richard;Richard;;Mr ;8204285297081;1982/04/28;28;Male;;richard.nel@lifeheathcare.co.za;0826079625;21 Chaplin road;;;;;;;Principal
+van der Walt;RM;Richard Martin ;Richard;;Mr ;6904145022080;1969/04/14;14;Male;;richard.vanderwalt@absa.co.za;0718922951;;;;;;;;Principal
+de Jager;R;Riette;Riette;;Mrs ;6401260029081;1964/01/26;26;Female;;RDeJager@ccbagroup.com;0832898953;;;;;;;;Principal
+Matthews;R;Robert;Robert;;Mr ;8208045457083;1982/08/04;4;Male;;robsmi2@hotmail.com;072 675 8634;;;;;;;;Principal
+Botha;RA;Robert Anthony ;Robert;;Mr ;6410035041081;1964/10/03;3;Male;;robertbotha127@gmail.com;0794935191;;;;;;;;Spouse
+Fryer;RD;Robert Douglas ;Robert;;Mr ;5001245173185;1950/01/24;24;Male;;rdfryer@netactive.co.za;0824105764;;;;;;Madeleen lead;;Principal
+Koen;R;Roelien;Roelien;Roux;Mrs.;9107090181086;1991/07/09;9;Female;;roloroux@gmail.com;082 304 8769;;;;;0244307237;;;Spouse
+Smith;R;Roelien;Roelien;;Mrs ;6710280133081;1967/10/28;28;Female;;;;;;;;;;;Spouse
+van der Merwe;RP;Roelof Petrus;Roelof;;Mr ;7111155059080;1971/11/15;15;Male;;roelof_vdm@yahoo.co.uk;0823778241;;;;;;;;Principal
+De Villiers;RP;Roelof Pieter;Roelof;;Mr.;6309205028086;1963/09/20;20;Male;;roelof@manstrot.co.za;082 894 6085;;;;;;;;Principal
+Reinecke;RC;Ronald Constant;Ronald;;Mr.;8510085015089;1985/10/08;8;Male;;constantreinecke@yahoo.com;083 229 7436;Marakele Estate;Posbus 564;;;;Philip Roesch;;Principal
+le Roux;R;Ronelle;Ronelle;;Mrs ;6706300101082;1967/06/30;30;Female;;ronelleleroux@gmail.com;0729465158;;;;;0287213169;;;Principal
+Singh;R;Roopa;Roopa;;Mrs.;;;;;;;082 081 4486;House 26;PO Box 1548;No;;;;;Spouse
+van der Merwe;RL;Rossana L;Zanna;;Mrs ;5609210030089;1956/09/21;21;Female;;zannavdmerwe@gmail.com/ johanzanna@mweb.co.za;083 229 5840;;;;;;Andre Rheeders ;;Spouse
+Minnaar;RW;Ruan Werner ;Ruan;;Mr ;8012015092080;1980/12/01;1;Male;;ruan@dunamisproperties.com;083 276 8419;;;;;;;;Principal
+Combrink;R;Rykie;Rykie;;;;2002/09/11;11;Female;;;;;;;;;;;Child
+van der Walt;SG;Sandra Gloudina;Sandra;;Mrs ;7204200009083;1972/04/20;20;Female;;sandra@vdwaccounting.co.za;0833069719;;;;;;;;Spouse
+Erasmus;SJA;Sandra Johanna Aletta ;Sandra;;Mrs ;5912080026082;1959/12/08;8;Female;;sandra@autocommodities.co.za;0832741017;;;;;;;;Principal
+Makena;SM;Sandra Mmemeng;Sandra;;Mrs ;7610020512082;1976/10/02;2;Female;;Sandra.makena@exxaro.com;072 249 8003;;;;;;Exxaro;;Principal
+Mays;S;Sarlette;Sarlette;;Mrs ;8712170021085;1987/12/17;17;Female;;mayssarlette@gmail.com;0835337869;;;;;;;;Principal
+Jordan;S;Sascha ;Sascha;;Mrs ;8401090110083;1984/01/09;9;Female;;saschajordan@gmail.com;0728950324;;;;;;;;Spouse
+Moonsamy-Givindeen;S;Sawatree ;Sawatree;;Mrs.;6608250080086;1966/08/25;25;Female;Single;savi.moonsamy@za.sabmiller.com;083 761 3044;480 Primrose Street;Private Bag X155;;;1010159646;;;Principal
+De Villiers;SCW;Schalk Christiaan Willem;Schalk;;Mr ;2008255704083;2020/08/25;25;Male;;;;;;;;;;;Child
+Piek;SG;Schalk Gerhardus ;Schalk;;Mr ;6907225131085;1969/07/22;22;Male;;SGPIEK@XSINET.CO.ZA;067013376;;;;;;Schalk life;;Spouse
+Joyce;SG;Sean Gustaf ;Sean;;Mr ;9501125012086;1995/01/12;12;Male;;joycesean702@gmail.com;0794925665;;;;;;;;Principal
+Lee;S;Serelda;Serelda;;;;1990/05/02;2;Female;;;;;;;;;;;Child
+Pitse;SL;Serufe Lydia;Serufe;;Mrs ;8202190534085;1982/02/19;19;Female;;lydia.pitse@bigenafrica.com;0725432645;;;;;;;;Principal
+Zurlinden;SM;Shane Marc;Shane;;Mr ;6412315100082;1964/12/31;31;Male;;smzur@telkomsa.net;0736927590;;;;;;;;Principal
+Branders;S;Sharon;Sharon;;Mrs ;5805240060084;1958/05/24;24;Female;;sharonb.ceronio@gmail.com;0763061537;;;;;;;;Principal
+Maritz;SM;Shirley Magdalene;Shirley;;Mrs.;5711010091087;1957/11/01;1;Female;;shirleymaritz@gmail.com;083 707 2543;;;;;;;;Adult
+Liddle;SE;Sias Engelbertus;Sias;;Mr ;1012065141081;2010/12/06;6;Male;;biancal@attooh.co.za;;630 Smook Avenue;630 Smook Avenue;;;;;;Principal
+Kruger;S;Simon;Simon;;Mr ;7406175216086;1974/06/17;17;Male;;nimosza@gmail.com;0749199217;;;;;;;;Principal
+Madlala;SR;Siphamandla Rodney;Siphamandla;;Mr ;8208295562087;1982/08/29;29;Male;;rodney.madlala@angloamerican.com;073 463 6948;245 Sycamore Street;245 Sycamore Street;No;;;;;Spouse
+Christoffel Bouwer;S;Smith;Smith;;Mr ;8810125179089;1988/10/12;12;Male;;christoffel.sonop@yahoo.com;0848068798;;;;;;;;Principal
+Kriel;S;Sonja;Sonja;;Mrs ;7109070175080;1971/09/07;7;Female;;skriel007@icloud.com;0832766553;;;;;;;;Principal
+Kramer;S;Sonja ;Sonja;;Mrs.;7505060179083;1975/05/06;6;Female;;riaan@pretoriusgroup.co.za ;083 295 3218;10, 5th ;;Yes;;;Phillip;;Spouse
+Labuschagne;S;Sophia;Sophia;;Mrs.;6411110013086;1964/11/11;11;;;lapppies@lantic.net;0763370120;;;;;;;;Spouse
+Kilian;SF;Stefanie Francina;Stefanie;;Mev.;6507170076085;1965/07/17;17;Female;;charmainefer@gmail.com;0716722799;;;;;;;;Principal
+Loots;S;Stefnie;Stefnie;;Mrs.;9308040133082;1993/08/04;4;Female;;stefniesmit@gmail.com;071 100 6957;;;;;;;;Spouse
+Mare;S;Stephan;Stephan;;Mr ;9105135108080;1991/05/13;13;Male;;stepmare35@gmail.com;071 850 2137;;;;;;Suzeth ou kilent;;Principal
+Bezuidenhout;S;Stephanie;Stephanie;;Mrs ;9107100070089;1991/07/10;10;Female;;faantjie.kun@gmail.com;084 505 8964;553 Kenega Street;;;;;;;Spouse
+Marais;S;Stephanie;Stephanie;;Mrs.;9005151468089;1990/05/15;15;Female;Married;stephi2445@gmail.com;;;;;;;;;Adult
+van Zijl;S;Stephanus;Stephanus;;Mr ;7009045009085;1970/09/04;4;Male;;comarch@lantic.net;082 377 3336;;;;;;;;Principal
+Erasmus;SJ;Stephanus Johannes;Stephanus;;Mr.;8304275013082;1983/04/27;27;Male;Single;serasmus@orthman.com;076 949 5276;15 Eden;Po Box 72858;No;;;Tiaan;;Principal
+Herholdt;SP;Stephen Philip ;Stephen;;Mr ;6501215074080;1965/01/21;21;Male;;stephen@crocuta.co.za;0825683414;686 Arthur Street;Po Box 1699;No;;;;;Principal
+Graham;SM;Stuart Michael;Stuart;;Mr ;8508035036080;1985/08/03;3;Male;;stewmic@hotmail.com;0765622564;;;;;;;;Principal
+Gafney;ST;Stuart Thomas;Stuart;;Mr ;0108315181082;2001/08/31;31;Male;;stuartgafney01@gmail.com;0836802109;;;;;;;;Principal
+Kusche;S;Suleste;Suleste;;Miss.;9003110041089;1990/03/11;11;Female;;sulestekusche@rocketmail.com;0827761354;;;;;;;;Principal
+Raina;SK;Sunil Kumar ;Sunil;;Mr ;7504016288189;1975/04/01;1;;;sunilraina00@gmail.com;072 281 8722;;;;;;;;Principal
+Jooste;SJ;Susanna Johanna;Susanna;;Mrs ;8412100038081;1984/12/10;10;Female;;sjooste@angloamerican.co.za;084 813 2855;7 Portridge road;Postnet Suite 103;;;;;;Principal
+Kusche;SJ;Susanna Josina;Susanna;;Dr.;6102090104082;1961/02/09;9;Female;;skusche@lantic.net;0824164040;;;;;;;;Principal
+Vermeulen;SJS;Susara Johanna Suanna;Susara;;Mrs ;7807180089089;1978/07/18;18;Female;;;;;;;;;;;Spouse
+Waters;SE;Sussana Elizabeth;Sussana;;Mrs ;6211160179088;1962/11/16;16;Female;;;0613494170;;;;;;;;Principal
+Helberg;S;Suzaan;Suzaan;;;;;;Female;;;;;;;;;;;Child
+Kotze;S;Suzeth;Suzeth;;Mrs ;8612250025081;1986/12/25;25;Female;;suzeth.kotze@gmail.com;0824158334;;;;;;;;Principal
+Kotze;S;Suzeth;Suzeth;;Mrs ;8612250025081;1986/12/25;25;Female;;suzeth.kotze@gmail.com;0824158334;;;;;;;;Spouse
+Potgieter;SD;Sylvia Doreen;Sylvia;;;;1995/05/10;10;Female;;;;;;;;;;;Principal
+Potgieter;SD;Sylvia Doreen;Sylvia;;;;1995/05/10;10;Female;;;;;;;;;;;Child
+Naidoo;TR;Tadin Rylan;Tadin;;Mr ;8710025161080;1987/10/02;2;Male;;tadin.naidoo@gmail.com;0766852009;;;;;;;;Principal
+Mukwena;T;Tafadzwa;Tafadzwa;;Mr ;8203315882185;1982/03/31;31;Male;;tmukwena@gmail.com;0722990842;;;;;;;;Principal
+Swanepoel;T;Teon;Teon;;Mr ;6912135269082;1969/12/13;13;Male;;;;;;;;;;;Principal
+Strydom;T;Tertuis;Tertuis;;Mr ;9104095072089;1991/04/09;9;Male;;strydomters@yahoo.com;072 711 9818;;;;;;;;Principal
+Cele;TP;Thabiso Percy;Thabiso;;Mr;8508255619086;1985/08/25;25;Male;;tcele4382@gmail.com;0745612217;;;;;;;;Principal
+Madlala;T;Thando;Thando;;;;2008/11/23;23;Male;;;;;;;;;;;Child
+Maharaj;T;Thayin;Thayin;;Mr ;9711025154082;1997/11/02;2;Male;;;0826849429;;;;;;;;Child
+Eicker;T;Themari;Themari;;Miss.;8708200044089;1987/08/20;20;Female;;dvillt@unisa.ac.za;0713343819;;;;;;(Gerhard Grebe meisie);;Principal
+Eloff;T;Theunis;Theunis;;Mr.;7905205009080;1979/05/20;20;Male;;n/a;082 891 6719;Boschfontein ;PO Box 839;;;;Phillip;;Principal
+Ngcengeni;TW;Thobela William;Thobela;;Mr ;8207065731088;1982/07/06;6;Male;;thobela.ngcengeni@lcloud.com;083 300 8967;11 sterlatzia;PO Box 2;No;;;Phillip;;Principal
+Swanepoel;TE;Thomas EDWARD;Thomas;;Mr.;6311065026085;1963/11/06;6;Male;;jood.swanepoel@angloamerican.com;083 462 5791;Jordaan Street  1;Posbus 1743;No;;;;;Principal
+Slabbert;T;Titus;Titus;;Mr ;3901135013080;1939/01/13;13;Male;;;;;;;;;;;Spouse
+van der Walt;TH;Tjaart Herman;Tjaart;;Mr ;5602155053083;1956/02/15;15;Male;;tjaart@stratsolv.com;0828937325;;;;;;;;Principal
+Coetzee;T;Tobias;Tobias;;Mr ;8605195232085;1986/05/19;19;Male;;tobias.coetzee@gmail.com;0828213104;;;;;;;;Principal
+Maharaj;T;Tosheen;Tosheen;;Mr ;9909155143087;1999/09/15;15;Male;;;0760620366;;;;;;;;Child
+Sanker;T;Trennen;Trennen;;Mr ;8811145233088;1988/11/14;14;Male;;trennen.sanker@momentum.co.za;072 342 0378;;;;;;;;Principal
+van Niekerk;TJ;Trevayne Johnathan ;Trevayne;;Mr ;8103295217081;1981/03/29;29;Male;;trevaynevn9@gmail.com;082509702;;;;;;Schalk invest klient;;Principal
+du Preez;T;Trudie;Trudie;;Mrs.;7009180425088;1970/09/18;18;Female;;trudie.dupreez@icloud.com;061 700 7808;;;;;;;;Principal
+Erasmus;U;Ulrich;Ulrich;;Mr ;9006255035089;1990/06/25;25;Male;;ulierasmus@hotmail.com;0825140878;;;;;;;;Principal
+Duke;VG;Vaughn Glenn;Vaughn;;Mr.;6208295024080;1962/08/29;29;Male;;vduke@pmde.mu;0824964252;;;;;;;;Principal
+Lee;V;Vera;Vera;;Mrs.;6603070023085;1966/03/07;7;Female;;leevera368@gmail.com;083 959 2762;Faure ;PO Box 280;No;;;Phillip;;Principal
+Ferreira;VA;Vernon Aurthur;Vernon;;Mr ;8505295021083;1985/05/29;29;Male;;vernons5mini@gmail.com;0829368028;;;;;;;;Spouse
+Bezuidenhout;V;Veronica;Veronica;;Mrs ;8503180197084;1985/03/18;18;Female;;nickybol.roux@gmail.com;082 719 6512;Pres Mbeki 172A;Pres Mbeki 172A;;;;;;Principal
+Litlhakanyane ;V;Victor ;Victor;;Mr ;6411075289085;1964/11/07;7;Male;;victor.litlhakanyane@bigenafrica.com;0824971486;;;;;;;;Principal
+Ndlovu;VN;Victor Nkosinathe;Victor;;Mr ;7102165558088;;;Male;;victor.ndlovu@lonmin.com;0836608692;;;;;;;;Principal
+Coetzee;W;Wayne;Wayne;;Mr ;9301255014089;1993/01/25;25;Male;;coeetzee.wk@gmail.com;0817795909;;;;;;Schalk se klient;;Principal
+Kroese;W;Werner;Werner;;Mr ;9301125059082;1993/01/12;12;Male;;kroesewerner@gmail.com;082 045 5132;1650  Bluestream Estate;;;;;;;Principal
+Strydom;WP;Werner Pierre;Werner;;Mr.;7405225004088;1974/05/22;22;Male;;karlienstrdm@gmail.com;083 441 7584;Daffodil Cressent 10;PO Box318;Yes;0163048655;;Phillip;;Principal
+Wright;WG;Wilbur Gabriel;Wilbur;;Mr.;8808125144087;1988/08/12;12;Male;Single;wilburgabriel@gmail.com;083 327 9263;268 Harley Road;Po Box 31844;;;;Tiaan ;;Principal
+Cronje;WA;Willem Adriaan;Willem;;Mr ;7409185397086;1974/09/18;18;Male;;Riaan.Cronje@bigenafrica.com;076 271 1957;;;;;;;;Principal
+Deysel;WB;Willem Bernardus;Willem;;Mr ;6002265004085;1960/02/26;26;Male;;wdeysel1@gmail.com;083 462 3012;Thabazimbi;;;;0134054659;;;Principal
+Kelber;WB;Willem Burger ;Willem;;Mr ;7103195275081;1971/03/19;19;Male;;willemk@cccsa.org.za;0833066311;;;;;;;;Principal
+Meyer;WJ;Willem Johannes;Willem;;Mr ;8306195051084;1983/06/19;19;Male;;stephan@noa8.co.za;0725707186;;;;;;;;Principal
+Kemp;WO;Willem Oostenwald;Billy;;Mr;7312095033082;1973/12/09;9;Male;;Willemk@kmsa.com;0733093268;;;;;;;;Principal
+van Deventer;WW;Willem Werner;Willem;;Mr ;7201285022080;1972/01/28;28;Male;;cvd@polka.co.za;0826139596;;;;;;;;Principal
+Price;WAF;William Arthur Frederick;William;;Mr ;5109215041082;1951/09/21;21;Male;;bill.price@me.com;0741981364;;;;;;;;Principal
+Rohrbeck;W;Wilma ;Wilma;;Mrs.;8007180083088;1980/07/18;18;Female;;wilma.rohrbeck@gmail.com;083 759 2785;;;No;;;;;Spouse
+Oosthuizen;W;Wilmarie;Wilmarie;;Mrs ;7604010228080;1976/04/01;1;Female;;wilmarie.oosthuizen@za.ab-inbev.com;;;;;;;SAB klient;;Principal
+Fourie;WC;Wilna Corne;Wilna;;Mrs.;8709090240084;1987/09/09;9;Female;;wilnac.fourie@gmail.com;082 861 7766;;;;;;;;Spouse
+Kirui;WC;Winnie Chemutai;Winnie;;Miss.;9402041383182;1994/02/04;4;Female;;taaittaa@gmail.com;081 333 3797;;;;;;;;Principal
+Viljoen;WA;Wouter Antonie;Wouter;;Mr ;6611305155085;1966/11/30;30;Male;;Rachel.viljoen@absa.co.za;082 709 3481;;;;;2411120641;;;Spouse
+Avenant;WP;Wynand Petrus;Wynand;;Mr.;5904065056002;1959/04/06;6;Male;;wyanand.avenant@telkomsa.net;082 941 2661;;;;;;;;Principal
+Kock;X;Xavier;Xavier;;;;;;Male;;;;;;;;;;;Child
+Booysen;YE;Yolandi Eileen;Yolandi;;Mrs ;8207230066089;1982/07/23;23;Female;;booysenye@gmail.com;;;;;;;;;Spouse
+Meyer;Y;Yolandie;Yolandie;;;;;;;;;;;;;;;;;Adult
+Riekert;Y;Yolandie;Yolandie;;Mrs ;8002120012081;1980/02/12;12;Female;;Yolandie.riekert@bigenafrica.com;0846785614;;;;;;;;Principal
+Meyer;YA;Yolandie Augustha;Yolandie;;Mrs.;8601310046088;1986/01/31;31;Female;Married;meyer.yolandie@gmail.com;083 614 9654;6de Laan 28;PO Box 1691;;;;;;Adult
+Meyer;Y;Yune;Yune;;;;2006/04/12;12;Female;;;;;;;;;;;Child
+Celliers;YI;Yvette Ivy;Yvette;;Miss.;7303180064082;1973/03/18;18;Female;Single;yvettecelliers@yahoo.com;071 311 4021;;;;;;;;Principal
+Mankai;ZN;Zandile Nangamso;Zandile;;Mrs ;8102260461088;1981/02/26;26;Female;;missmankai@gmail.com;0832657708;;;;;;;;Principal
+Scott;ZC;Zane COrdin;Zane;;Mr ;6907215180084;1969/07/21;21;Male;;zane.scott@bigenafrica.com;0748207913;;;;;;;;Principal
+Mhlambiso;Z;zizile;zizile;;Ms;;;;Female;;;;;;No;;;;;Adult
+Flintstone;Fred;;;;;6908065006080;1969/08/06;6;Male;;;;;;;;;;;Principal
+Phahamo Construction (Pty) LtD;a;;;;;2012/046688/07;2001/01/01;1;;;info@phahamo.co.za;0825682023;;;;;;Motlatsi & Clifton;;Employer
+Phahamo Olieven;;;;;;2014/014709107;;;;;clifton.sebatane@phahamo.co.za;;;;;;;Motlatsi,Clfiton,Mabana,Luntu;;Principal
+Rei Da Capital;;;;;;2019/131731/07;;;;;tiaan@attooh.co.za;0729185106;;;;;;;;Principal

@@ -1,0 +1,54 @@
+Start Time=12:37:14
+GENERATION LOG
+DATE: 2/26/2021 12:37:18 PM +00:00
+TEMPLATE: Record of advise1 [2fc7d662-05af-4795-9875-3ed2530879ab:1.0.0.20:11/25/2020 11:03:56 AM +02:00]
+------------------------------------------------------------
+2021/02/26 12:37:14.095:   Begin process
+2021/02/26 12:37:14.095:     Deserializing chain & template
+2021/02/26 12:37:14.595:     Deserialized chain & template [00:00:00.4997008]
+2021/02/26 12:37:14.595:     Preparing dataset
+2021/02/26 12:37:14.595:     Prepared dataset [00:00:00.0000067]
+2021/02/26 12:37:14.595:     Initializing chain & processing
+2021/02/26 12:37:14.995:     Initialized chain [00:00:00.4039136]
+2021/02/26 12:37:14.995:     Start generating
+2021/02/26 12:37:14.995:       Assemble document ...
+2021/02/26 12:37:14.995:         Compiling master script ...
+2021/02/26 12:37:15.060:         Build script instance
+2021/02/26 12:37:15.060:         Compiling main script
+2021/02/26 12:37:16.985:         Checking main script assembly
+2021/02/26 12:37:17.015:         Instantiating script
+2021/02/26 12:37:17.085:         Compiled master script [00:00:02.0865567]
+2021/02/26 12:37:17.085:         Initializing script ...
+2021/02/26 12:37:17.960:         Initialized script [00:00:00.8778866]
+2021/02/26 12:37:17.960:         Building document 'Record of advise1 [1.0.0.20]'
+2021/02/26 12:37:18.060:         Built document 'Record of advise1 [1.0.0.20' [00:00:00.0974464]
+2021/02/26 12:37:18.060:       Assembled document [00:00:03.0621835]
+2021/02/26 12:37:18.060:     Completed generation [00:00:03.0622666]
+2021/02/26 12:37:18.060:     Processing chain sub-processes
+2021/02/26 12:37:18.060:   PDF Converter (time remaining: 00:00:56.0317121)
+2021/02/26 12:37:18.065:     Get .doc
+2021/02/26 12:37:18.065:     Get .doc [00:00:00.0000125]
+2021/02/26 12:37:18.065:     Convert to pdf
+2021/02/26 12:37:18.730:     Convert to pdf [00:00:00.6661758]
+2021/02/26 12:37:18.730:     Form field processing
+2021/02/26 12:37:18.750:     Form field processing [00:00:00.0199532]
+2021/02/26 12:37:18.750:   PDF Converter [00:00:00.6867139]
+2021/02/26 12:37:18.750:     Processed chain sub-processes [00:00:00.6899264]
+2021/02/26 12:37:18.750:     Collecting results
+2021/02/26 12:37:18.750:     Collected results [00:00:00.0000120]
+2021/02/26 12:37:18.750:   Completed process [00:00:04.6559493]
+
+------------------------------------------------------------
+2021/02/26 12:37:18.060: Process chain element 'Convert to PDF' [AIS.DocFusion.Processor.RTFConvertor.PDFConvertor,AIS.DocFusion.Processor.RTFConvertor] [00:00:00.6897059]
+2021/02/26 12:37:18.060:   PDF Converter (time remaining: 00:00:56.0317121)
+2021/02/26 12:37:18.065:     Get .doc
+2021/02/26 12:37:18.065:     Get .doc [00:00:00.0000125]
+2021/02/26 12:37:18.065:     Convert to pdf
+2021/02/26 12:37:18.730:     Convert to pdf [00:00:00.6661758]
+2021/02/26 12:37:18.730:     Form field processing
+2021/02/26 12:37:18.750:     Form field processing [00:00:00.0199532]
+2021/02/26 12:37:18.750:   PDF Converter [00:00:00.6867139]
+
+{ "Success" : True, "Error ": ""}
+Done
+Time Taken=-00:00:13.6898129
